@@ -1,0 +1,1201 @@
+data,tipo_crime,rua,bairro,latitude,longitude,turno,fonte,severidade
+2025-04-15 07:08:00,Assalto,Av. Historiador Pereira da Costa,Suape,-8.27058214617472,-35.03345660752928,Manhã,BO,5
+2025-04-08 07:32:00,Furto,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.266807786547481,-34.9919242535898,Manhã,Relato anônimo,5
+2025-02-13 05:44:00,Furto,Rua da Estação,Suape,-8.288853834368084,-35.03585342392373,Madrugada,Imprensa,3
+2025-03-07 12:06:00,Roubo,Rua da Praia,Ponte dos Carvalhos,-8.243519679612314,-35.01081413177118,Noite,Imprensa,5
+2025-06-29 03:59:00,Furto,Rua da Matriz,Novo Horizonte,-8.294736859648374,-35.01643599891035,Madrugada,BO,5
+2025-03-01 01:42:00,Furto,Rua do Canal,Gaibu,-8.294585442320312,-35.04164324383926,Tarde,Imprensa,1
+2025-04-24 14:40:00,Tráfico,Rua do Rosário,Charneca,-8.27695094321085,-35.077832006116445,Noite,Relato anônimo,3
+2025-07-17 20:10:00,Furto,Av. Laura Machado,Ponte dos Carvalhos,-8.326122945812825,-35.04405718823102,Tarde,Relato anônimo,4
+2025-08-06 10:53:00,Furto,Av. Governador Agamenon Magalhães,Gaibu,-8.30832077800836,-35.022143816685116,Manhã,Relato anônimo,1
+2025-02-28 06:58:00,Violência doméstica,Rua Monsenhor Fabrício,Suape,-8.305700601888029,-35.06530759253339,Noite,Relato anônimo,4
+2025-04-20 04:15:00,Furto,Rua da Estação,Enseada dos Corais,-8.24635878077696,-35.035644407512166,Noite,Monitoramento,5
+2025-06-22 15:05:00,Furto,Rua Professor Luís Sobrinho,Enseada dos Corais,-8.281311794882802,-35.065618704655336,Manhã,BO,2
+2025-05-21 12:38:00,Assalto,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.296609568113128,-35.027226935257254,Madrugada,Imprensa,5
+2025-08-05 17:48:00,Tráfico,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.311774839435557,-35.02060754954136,Noite,Imprensa,1
+2025-02-12 23:56:00,Furto,Av. Tejucupapo,Novo Horizonte,-8.29801596724797,-35.03729234374483,Noite,Relato anônimo,5
+2025-03-23 11:48:00,Tráfico,Rua Sete de Setembro,Gaibu,-8.298042665305735,-34.98369304538728,Tarde,BO,5
+2025-05-15 09:15:00,Furto,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.283337430618447,-35.0564427732239,Manhã,Relato anônimo,5
+2025-03-01 17:49:00,Vandalismo,Av. Presidente Kennedy,Novo Horizonte,-8.26243637719742,-35.06052109124928,Tarde,Relato anônimo,4
+2025-06-27 19:27:00,Vandalismo,Av. Tejucupapo,Suape,-8.277778410124881,-35.07899175309699,Tarde,Relato anônimo,3
+2025-06-24 14:07:00,Furto,Rua do Canal,Novo Horizonte,-8.31620465122246,-35.02507846910327,Tarde,Relato anônimo,1
+2025-07-12 07:00:00,Furto,Av. Governador Agamenon Magalhães,Gaibu,-8.264538335500115,-35.02571579297025,Manhã,BO,2
+2025-03-02 16:15:00,Roubo,Rua da Matriz,Pontezinha,-8.285891207059706,-35.037527592389736,Noite,Monitoramento,2
+2025-06-13 13:12:00,Assalto,Rua do Forte,Gaibu,-8.319963049759185,-35.04799610520987,Manhã,BO,4
+2025-02-25 21:41:00,Furto,Rua Dr. João Leitão,Novo Horizonte,-8.294515969273995,-35.00357194434453,Manhã,BO,4
+2025-04-02 06:34:00,Arrombamento,Rua do Rosário,Gaibu,-8.274409542760788,-35.074076003884066,Madrugada,Relato anônimo,4
+2025-03-03 14:51:00,Roubo,Rua da Estação,Gaibu,-8.27489790076513,-35.03962705701041,Manhã,BO,5
+2025-03-26 13:31:00,Violência doméstica,Av. Presidente Kennedy,Gaibu,-8.29992305000765,-35.01470809277898,Madrugada,Relato anônimo,4
+2025-02-12 12:16:00,Tráfico,Av. Tejucupapo,Charneca,-8.257225011937601,-35.00671799702209,Madrugada,Imprensa,4
+2025-03-23 06:18:00,Arrombamento,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.303980438080565,-35.03773030939628,Tarde,BO,5
+2025-02-26 01:37:00,Arrombamento,Rua da Matriz,Pontezinha,-8.27471841421491,-35.00561137182194,Madrugada,Relato anônimo,1
+2025-03-01 19:04:00,Vandalismo,Av. Presidente Kennedy,Enseada dos Corais,-8.294979355946131,-35.034641474416595,Tarde,Monitoramento,1
+2025-07-20 02:26:00,Vandalismo,Rua Professor Luís Sobrinho,Centro,-8.310658374350151,-35.05990516560202,Noite,Imprensa,2
+2025-04-20 12:08:00,Assalto,Rua da Praia,Gaibu,-8.262686854440144,-34.99609399928573,Noite,Monitoramento,3
+2025-06-09 19:36:00,Vandalismo,Av. Presidente Kennedy,Centro,-8.284800253039508,-35.0049116775527,Manhã,BO,5
+2025-05-12 02:56:00,Roubo,Av. Laura Machado,Enseada dos Corais,-8.273959099373808,-35.04612799386513,Tarde,Imprensa,3
+2025-07-18 20:33:00,Roubo,Av. Governador Agamenon Magalhães,Suape,-8.273965109862289,-34.99154908583835,Manhã,Imprensa,1
+2025-03-13 03:47:00,Vandalismo,Rua do Sol,Suape,-8.283895650977747,-34.99088390860465,Tarde,Imprensa,3
+2025-08-06 20:54:00,Assalto,Rua da Praia,Gaibu,-8.348493627602243,-35.00945243739062,Noite,Monitoramento,3
+2025-07-24 13:53:00,Tráfico,Rua da Matriz,Ponte dos Carvalhos,-8.280823823294044,-35.03747518376165,Noite,BO,1
+2025-03-25 23:28:00,Furto,Rua do Sol,Suape,-8.280705980586612,-35.07968922286502,Madrugada,BO,1
+2025-05-17 18:35:00,Roubo,Rua do Sol,Centro,-8.288491797195936,-35.02107218571221,Tarde,Monitoramento,2
+2025-05-14 06:43:00,Roubo,Rua do Canal,Centro,-8.246052648881461,-35.04295675545684,Tarde,BO,3
+2025-04-13 05:51:00,Violência doméstica,Rua Dr. João Leitão,Enseada dos Corais,-8.30321234007233,-35.042543926089614,Tarde,Monitoramento,1
+2025-08-02 23:51:00,Roubo,Rua da Praia,Charneca,-8.260114947057447,-35.02178122225851,Tarde,Imprensa,2
+2025-02-21 15:14:00,Violência doméstica,Rua do Rosário,Charneca,-8.296244005094175,-35.01716831417217,Tarde,Monitoramento,3
+2025-02-18 21:12:00,Furto,Rua Professor Luís Sobrinho,Gaibu,-8.280573061266299,-35.00578387523668,Madrugada,Imprensa,3
+2025-07-26 16:25:00,Tráfico,Av. Laura Machado,Pontezinha,-8.300551327346934,-35.038191553664944,Noite,BO,1
+2025-07-10 08:02:00,Tráfico,Av. Laura Machado,Enseada dos Corais,-8.292802703828304,-35.066587873703305,Manhã,Monitoramento,3
+2025-07-17 16:07:00,Arrombamento,Rua da Praia,Charneca,-8.275596993073385,-35.0234736181955,Madrugada,Relato anônimo,3
+2025-06-25 17:43:00,Roubo,Rua Dr. João Leitão,Centro,-8.282872163583939,-35.03586467833438,Tarde,Imprensa,4
+2025-07-31 03:46:00,Roubo,Rua da Praia,Pontezinha,-8.31838426855126,-35.04051613306913,Noite,Imprensa,4
+2025-04-02 13:42:00,Furto,Rua Sete de Setembro,Enseada dos Corais,-8.291567862913169,-35.050056931730545,Madrugada,Relato anônimo,5
+2025-04-30 09:13:00,Assalto,Rua Monsenhor Fabrício,Centro,-8.28703214279165,-35.01989872857964,Madrugada,Imprensa,4
+2025-03-27 21:05:00,Homicídio,Rua do Comércio,Novo Horizonte,-8.235845352469736,-35.025635554679205,Noite,Imprensa,1
+2025-04-10 06:09:00,Violência doméstica,Rua Professor Luís Sobrinho,Suape,-8.27656124023193,-35.031861147894155,Manhã,BO,2
+2025-05-29 20:36:00,Vandalismo,Av. Presidente Kennedy,Novo Horizonte,-8.330969280382476,-35.03066284688623,Tarde,Monitoramento,4
+2025-03-11 13:14:00,Furto,Rua do Sol,Centro,-8.281494244751475,-34.96841894718787,Tarde,Monitoramento,1
+2025-03-18 14:42:00,Assalto,Rua do Rosário,Novo Horizonte,-8.287809024119527,-35.022461316441664,Noite,Monitoramento,5
+2025-07-02 14:57:00,Violência doméstica,Rua do Carmo,Charneca,-8.28386779424263,-35.05921695094049,Tarde,Monitoramento,4
+2025-06-25 15:40:00,Furto,Rua Professor Luís Sobrinho,Suape,-8.254429429637124,-35.01120167418283,Tarde,Imprensa,4
+2025-04-22 10:20:00,Roubo,Rua Sete de Setembro,Gaibu,-8.263224201323924,-35.05273468636987,Manhã,Relato anônimo,2
+2025-02-28 13:26:00,Roubo,Rua do Sol,Gaibu,-8.247930142226597,-35.06504627656981,Noite,Monitoramento,4
+2025-07-11 22:01:00,Roubo,Rua Dr. João Leitão,Charneca,-8.268328572654992,-34.975238609354754,Madrugada,Monitoramento,1
+2025-05-30 17:47:00,Vandalismo,Rua Sete de Setembro,Charneca,-8.307763408128267,-35.04415744324007,Tarde,Monitoramento,2
+2025-05-22 10:42:00,Furto,Rua do Forte,Centro,-8.28050871587281,-35.042586891352904,Madrugada,Relato anônimo,4
+2025-05-23 18:36:00,Tráfico,Av. Governador Agamenon Magalhães,Centro,-8.321766585776652,-35.02828592562985,Manhã,BO,4
+2025-02-24 08:24:00,Roubo,Rua da Estação,Enseada dos Corais,-8.309557592843152,-35.01816018923412,Noite,Relato anônimo,4
+2025-05-30 08:53:00,Furto,Rua Monsenhor Fabrício,Suape,-8.305985605855845,-34.99125163987456,Manhã,Monitoramento,1
+2025-04-10 20:04:00,Arrombamento,Rua da Matriz,Pontezinha,-8.302581332308405,-35.03805153790514,Manhã,BO,2
+2025-04-14 04:30:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.262662069565758,-35.06077160791085,Manhã,Relato anônimo,4
+2025-07-17 19:47:00,Arrombamento,Rua do Canal,Enseada dos Corais,-8.277313501634897,-34.99732143114294,Manhã,Relato anônimo,3
+2025-07-09 21:58:00,Roubo,Av. Historiador Pereira da Costa,Suape,-8.323187080864031,-35.02538415353669,Madrugada,Monitoramento,2
+2025-08-09 09:54:00,Roubo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.276502930143788,-35.01045442820557,Manhã,BO,3
+2025-06-21 20:21:00,Assalto,Rua do Canal,Ponte dos Carvalhos,-8.313923767771952,-35.06301141532711,Manhã,Monitoramento,4
+2025-03-23 13:11:00,Roubo,Rua do Canal,Novo Horizonte,-8.269951460859577,-35.02257538316917,Noite,Monitoramento,4
+2025-04-15 02:17:00,Furto,Av. Laura Machado,Pontezinha,-8.276737678741352,-35.02133879476258,Madrugada,Relato anônimo,4
+2025-02-19 15:54:00,Assalto,Rua Monsenhor Fabrício,Pontezinha,-8.300000618039462,-35.024193657570976,Noite,Relato anônimo,4
+2025-04-24 19:44:00,Roubo,Av. Laura Machado,Pontezinha,-8.275673188167533,-35.04785878545066,Noite,BO,5
+2025-05-27 15:35:00,Vandalismo,Av. Presidente Kennedy,Gaibu,-8.236355637221381,-35.018154176977205,Tarde,Monitoramento,4
+2025-04-28 07:25:00,Homicídio,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.312782587430066,-35.013586159784154,Tarde,Imprensa,5
+2025-05-31 23:35:00,Furto,Av. Governador Agamenon Magalhães,Pontezinha,-8.307367041755683,-35.01032288490644,Noite,Imprensa,4
+2025-03-14 23:12:00,Furto,Av. Laura Machado,Gaibu,-8.254035110524814,-35.05051705795879,Noite,BO,5
+2025-04-08 23:30:00,Vandalismo,Av. Tejucupapo,Gaibu,-8.258915596768892,-35.019680476826586,Noite,Imprensa,1
+2025-05-15 05:19:00,Violência doméstica,Rua Sete de Setembro,Gaibu,-8.262448496000138,-34.982580175433654,Manhã,Relato anônimo,3
+2025-08-09 04:40:00,Roubo,Rua da Matriz,Suape,-8.289134702900071,-35.048843404108936,Madrugada,BO,1
+2025-06-04 10:11:00,Assalto,Rua do Forte,Novo Horizonte,-8.305237860740638,-35.05039525712414,Manhã,Imprensa,4
+2025-06-17 02:36:00,Roubo,Av. Presidente Kennedy,Charneca,-8.284927542735351,-35.021471200629584,Manhã,Relato anônimo,2
+2025-04-16 03:35:00,Violência doméstica,Rua Sete de Setembro,Ponte dos Carvalhos,-8.27608273001675,-35.0093204187741,Madrugada,Relato anônimo,5
+2025-07-12 13:19:00,Furto,Rua da Estação,Suape,-8.282674952703053,-34.99366164807107,Manhã,BO,2
+2025-03-24 07:11:00,Assalto,Av. Laura Machado,Ponte dos Carvalhos,-8.289616420830948,-34.96199577083526,Manhã,Relato anônimo,1
+2025-02-20 07:18:00,Furto,Rua do Forte,Suape,-8.267358316305874,-35.051428938910405,Noite,Monitoramento,1
+2025-05-31 03:34:00,Arrombamento,Av. Laura Machado,Gaibu,-8.309772312451527,-35.017938189618924,Tarde,Relato anônimo,3
+2025-03-26 09:38:00,Violência doméstica,Av. Presidente Kennedy,Centro,-8.288586569633146,-35.012149987647696,Noite,Monitoramento,1
+2025-04-22 16:34:00,Homicídio,Rua Sete de Setembro,Charneca,-8.271169059385661,-35.03182072281642,Madrugada,Monitoramento,1
+2025-07-16 08:01:00,Assalto,Rua Dr. João Leitão,Pontezinha,-8.30416984295171,-35.067871180617146,Manhã,Relato anônimo,5
+2025-07-09 01:48:00,Assalto,Av. Historiador Pereira da Costa,Suape,-8.294162873801675,-35.00859003014192,Tarde,Monitoramento,5
+2025-07-11 13:40:00,Assalto,Av. Laura Machado,Enseada dos Corais,-8.277647656396745,-35.0611434694678,Madrugada,BO,4
+2025-08-02 03:54:00,Furto,Rua da Praia,Pontezinha,-8.27867047685372,-35.02036706550678,Tarde,Imprensa,4
+2025-07-02 01:29:00,Arrombamento,Rua Sete de Setembro,Charneca,-8.305096435905028,-35.026156872351365,Manhã,Imprensa,3
+2025-07-30 17:29:00,Furto,Rua Monsenhor Fabrício,Centro,-8.28154478203885,-35.05857425744577,Madrugada,BO,2
+2025-02-25 06:17:00,Assalto,Rua do Forte,Novo Horizonte,-8.274055315991292,-35.015980386840795,Tarde,Imprensa,4
+2025-02-19 20:38:00,Tráfico,Rua do Forte,Ponte dos Carvalhos,-8.255923718920618,-35.00365494869913,Tarde,Relato anônimo,3
+2025-03-07 07:53:00,Assalto,Av. Governador Agamenon Magalhães,Charneca,-8.317441734198926,-35.05344562599788,Manhã,Monitoramento,1
+2025-04-27 16:45:00,Assalto,Rua do Sol,Novo Horizonte,-8.270124118319783,-35.017155351227196,Noite,Monitoramento,4
+2025-07-03 04:24:00,Vandalismo,Rua Professor Luís Sobrinho,Novo Horizonte,-8.270123807842348,-34.93368171273363,Tarde,Relato anônimo,1
+2025-06-21 08:52:00,Furto,Rua Dr. João Leitão,Pontezinha,-8.26872773723267,-35.001610858995484,Manhã,Imprensa,3
+2025-06-06 17:30:00,Violência doméstica,Rua do Forte,Enseada dos Corais,-8.259149955912669,-35.01371521871736,Noite,Imprensa,5
+2025-05-05 06:44:00,Arrombamento,Rua Monsenhor Fabrício,Novo Horizonte,-8.290881731116007,-35.01102576948767,Tarde,Monitoramento,2
+2025-05-04 23:30:00,Tráfico,Rua Dr. João Leitão,Centro,-8.30232063036344,-35.0359204651685,Madrugada,Monitoramento,2
+2025-06-20 18:21:00,Assalto,Rua da Matriz,Enseada dos Corais,-8.295134088695727,-35.027953146515344,Manhã,Monitoramento,1
+2025-03-20 13:55:00,Assalto,Rua da Estação,Centro,-8.225133535833162,-35.07668162981479,Tarde,BO,4
+2025-07-21 22:25:00,Violência doméstica,Av. Laura Machado,Pontezinha,-8.265843495240636,-35.07031789677974,Manhã,Imprensa,5
+2025-06-30 01:39:00,Furto,Rua da Praia,Novo Horizonte,-8.294798296644736,-35.002776235075814,Manhã,Relato anônimo,3
+2025-03-09 20:45:00,Vandalismo,Av. Presidente Kennedy,Charneca,-8.281392999522613,-35.056943619448234,Manhã,Monitoramento,2
+2025-05-06 01:18:00,Arrombamento,Av. Historiador Pereira da Costa,Centro,-8.300882592731499,-35.013010056276634,Noite,Imprensa,4
+2025-07-06 21:50:00,Roubo,Rua do Carmo,Charneca,-8.301259165792928,-35.02458853526045,Tarde,Relato anônimo,2
+2025-06-19 18:09:00,Roubo,Rua Monsenhor Fabrício,Gaibu,-8.281860704002405,-35.04629000869015,Tarde,Monitoramento,3
+2025-04-26 21:34:00,Homicídio,Av. Historiador Pereira da Costa,Novo Horizonte,-8.229401397766866,-35.01415202444205,Tarde,BO,4
+2025-08-07 08:29:00,Vandalismo,Rua Sete de Setembro,Charneca,-8.333628564666439,-35.02533864213076,Noite,Relato anônimo,4
+2025-05-20 18:22:00,Tráfico,Rua do Rosário,Gaibu,-8.299544661619208,-35.0086891666301,Noite,Imprensa,1
+2025-02-14 18:55:00,Vandalismo,Rua Monsenhor Fabrício,Suape,-8.302813018460817,-35.032868411036674,Manhã,Monitoramento,3
+2025-04-09 20:12:00,Violência doméstica,Rua Professor Luís Sobrinho,Pontezinha,-8.270375318025488,-35.00835612014575,Noite,Relato anônimo,1
+2025-06-04 01:37:00,Tráfico,Rua da Matriz,Suape,-8.313007410176393,-35.03836253089602,Noite,Relato anônimo,1
+2025-03-28 06:08:00,Tráfico,Rua da Praia,Charneca,-8.294873632779023,-35.04633323081434,Noite,Imprensa,2
+2025-05-09 03:29:00,Furto,Rua do Forte,Suape,-8.238863643992971,-35.01987545722598,Manhã,Relato anônimo,2
+2025-03-07 12:00:00,Tráfico,Rua Monsenhor Fabrício,Pontezinha,-8.314522098858376,-35.00705345132363,Noite,BO,4
+2025-07-25 11:06:00,Furto,Av. Laura Machado,Charneca,-8.229946095074684,-35.004188368486226,Tarde,Monitoramento,1
+2025-07-18 07:41:00,Assalto,Av. Governador Agamenon Magalhães,Pontezinha,-8.32098424914885,-35.04210585182166,Manhã,Monitoramento,3
+2025-02-23 01:19:00,Assalto,Rua do Rosário,Enseada dos Corais,-8.251327221270333,-35.04769173664047,Madrugada,BO,1
+2025-05-22 14:23:00,Roubo,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.271904514296343,-35.010634148664266,Madrugada,Relato anônimo,4
+2025-04-24 01:44:00,Assalto,Rua do Forte,Charneca,-8.306173261789452,-35.03148813390155,Noite,Relato anônimo,4
+2025-03-09 21:23:00,Homicídio,Rua Professor Luís Sobrinho,Pontezinha,-8.364031683501727,-35.05560969103336,Noite,BO,4
+2025-03-07 21:13:00,Furto,Rua do Rosário,Novo Horizonte,-8.289314203784828,-35.061194579549124,Manhã,BO,3
+2025-03-01 17:13:00,Furto,Rua do Sol,Gaibu,-8.24218971740171,-35.065753534449016,Tarde,Relato anônimo,3
+2025-03-21 04:34:00,Violência doméstica,Av. Historiador Pereira da Costa,Suape,-8.294001112167424,-35.02673148556785,Noite,Relato anônimo,1
+2025-02-15 11:50:00,Assalto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.246968167773346,-35.06589655377949,Tarde,Imprensa,1
+2025-05-30 16:07:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.253920906196125,-35.02974417347451,Manhã,Monitoramento,4
+2025-06-07 16:14:00,Violência doméstica,Rua do Carmo,Ponte dos Carvalhos,-8.307537716276197,-35.01844741314342,Manhã,Imprensa,4
+2025-06-14 12:27:00,Assalto,Av. Historiador Pereira da Costa,Centro,-8.278023507610662,-35.04500542192897,Manhã,Monitoramento,4
+2025-07-17 04:04:00,Roubo,Av. Presidente Kennedy,Pontezinha,-8.281254947875249,-35.039632839921545,Tarde,Imprensa,5
+2025-05-20 19:33:00,Assalto,Av. Governador Agamenon Magalhães,Pontezinha,-8.280162066368717,-35.01344673313697,Noite,Monitoramento,5
+2025-07-29 20:56:00,Assalto,Rua do Rosário,Ponte dos Carvalhos,-8.243349579596366,-35.060945387470674,Tarde,Monitoramento,4
+2025-06-08 12:26:00,Tráfico,Rua Dr. João Leitão,Pontezinha,-8.229674165633593,-35.078802194988064,Manhã,Imprensa,4
+2025-03-23 21:59:00,Furto,Av. Laura Machado,Pontezinha,-8.286794627375889,-35.015292069837884,Madrugada,BO,1
+2025-03-08 23:47:00,Violência doméstica,Av. Presidente Kennedy,Charneca,-8.275975203306624,-35.04556748799551,Noite,Relato anônimo,5
+2025-08-02 03:26:00,Roubo,Av. Governador Agamenon Magalhães,Pontezinha,-8.288203056258931,-35.04232502336647,Noite,Monitoramento,1
+2025-03-10 18:32:00,Vandalismo,Rua Sete de Setembro,Pontezinha,-8.297734118923605,-35.008759947574475,Tarde,Relato anônimo,4
+2025-07-04 11:07:00,Roubo,Rua do Rosário,Pontezinha,-8.274074612850873,-35.047322739881515,Noite,Relato anônimo,4
+2025-07-17 21:53:00,Tráfico,Av. Governador Agamenon Magalhães,Centro,-8.260510003114168,-35.02231751197809,Noite,BO,2
+2025-05-12 00:11:00,Furto,Rua Sete de Setembro,Pontezinha,-8.262678447029025,-35.01425927895191,Tarde,Monitoramento,1
+2025-06-27 06:24:00,Roubo,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.303724875273051,-35.044004526004926,Madrugada,Monitoramento,3
+2025-07-07 19:05:00,Roubo,Rua Sete de Setembro,Pontezinha,-8.264317659871917,-35.014740743364165,Manhã,Relato anônimo,2
+2025-04-22 14:42:00,Arrombamento,Rua da Matriz,Ponte dos Carvalhos,-8.283522539849104,-35.02706681541728,Madrugada,Monitoramento,5
+2025-06-23 03:22:00,Homicídio,Av. Laura Machado,Gaibu,-8.25105837760529,-35.0447892847209,Madrugada,BO,3
+2025-02-23 07:25:00,Arrombamento,Rua do Forte,Suape,-8.269322565470748,-35.03505481631085,Manhã,BO,2
+2025-04-18 09:20:00,Furto,Rua do Comércio,Enseada dos Corais,-8.28844203008068,-35.00253057870032,Manhã,BO,4
+2025-05-20 17:45:00,Arrombamento,Av. Tejucupapo,Enseada dos Corais,-8.262364591275299,-35.00966225909998,Tarde,Imprensa,1
+2025-02-16 14:58:00,Furto,Rua da Matriz,Charneca,-8.250363029821141,-35.02947490395918,Manhã,Imprensa,5
+2025-04-27 03:25:00,Furto,Rua Monsenhor Fabrício,Charneca,-8.265951175717625,-35.03775666891484,Manhã,Imprensa,2
+2025-03-06 13:54:00,Violência doméstica,Rua da Estação,Pontezinha,-8.274895841187789,-35.03325357635919,Manhã,Relato anônimo,4
+2025-05-24 09:47:00,Assalto,Rua do Carmo,Ponte dos Carvalhos,-8.280575100875181,-35.01512107436408,Noite,Relato anônimo,3
+2025-06-27 16:12:00,Violência doméstica,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.303455517080836,-34.97769031810787,Noite,Imprensa,2
+2025-04-03 05:38:00,Roubo,Rua do Sol,Suape,-8.308150434537492,-35.0603547153197,Tarde,BO,2
+2025-07-06 18:28:00,Vandalismo,Rua do Forte,Novo Horizonte,-8.254047228162499,-35.01020843265093,Noite,Imprensa,2
+2025-07-23 09:50:00,Furto,Rua do Forte,Novo Horizonte,-8.267397004573695,-35.014291362268395,Noite,BO,3
+2025-06-07 01:03:00,Assalto,Rua Sete de Setembro,Novo Horizonte,-8.283306169321172,-35.05243135928715,Noite,Imprensa,1
+2025-06-10 18:35:00,Assalto,Av. Presidente Kennedy,Charneca,-8.281104886045156,-35.0469290427878,Manhã,Monitoramento,5
+2025-06-20 04:03:00,Assalto,Rua da Praia,Novo Horizonte,-8.258622006664556,-35.033676434537554,Madrugada,BO,3
+2025-02-22 07:45:00,Vandalismo,Av. Presidente Kennedy,Enseada dos Corais,-8.303637429919812,-35.038034646041325,Madrugada,Monitoramento,5
+2025-05-18 09:24:00,Assalto,Av. Tejucupapo,Pontezinha,-8.27267671364311,-35.044093113820104,Madrugada,Imprensa,5
+2025-05-07 03:35:00,Roubo,Rua da Praia,Ponte dos Carvalhos,-8.30355550988916,-35.023907819712704,Madrugada,Imprensa,3
+2025-03-04 18:42:00,Arrombamento,Rua do Sol,Pontezinha,-8.276875835722281,-35.04267357938428,Tarde,Imprensa,3
+2025-07-14 22:05:00,Vandalismo,Rua Monsenhor Fabrício,Enseada dos Corais,-8.294775957640457,-35.02419875156606,Noite,Monitoramento,3
+2025-07-27 21:27:00,Violência doméstica,Rua do Carmo,Ponte dos Carvalhos,-8.319202108537432,-35.06518659435942,Noite,BO,3
+2025-06-16 06:14:00,Furto,Rua do Comércio,Pontezinha,-8.30096110553131,-35.0353361787928,Tarde,Relato anônimo,1
+2025-07-31 10:56:00,Furto,Rua do Rosário,Centro,-8.27522731086005,-34.993116094576266,Tarde,Monitoramento,2
+2025-02-23 13:23:00,Roubo,Av. Tejucupapo,Novo Horizonte,-8.261558509419949,-35.033998463249084,Tarde,Monitoramento,5
+2025-06-28 07:19:00,Furto,Rua da Estação,Gaibu,-8.283475405197567,-35.05506323411595,Madrugada,Relato anônimo,3
+2025-04-25 12:32:00,Arrombamento,Rua da Estação,Novo Horizonte,-8.28346282839981,-35.037216465973,Madrugada,Relato anônimo,2
+2025-02-25 20:30:00,Violência doméstica,Rua do Sol,Suape,-8.274932035991547,-35.05068077358881,Noite,BO,5
+2025-03-25 08:28:00,Tráfico,Rua Sete de Setembro,Ponte dos Carvalhos,-8.27001633714397,-34.99168152717494,Tarde,Monitoramento,1
+2025-05-12 00:26:00,Vandalismo,Rua Professor Luís Sobrinho,Novo Horizonte,-8.28571900371142,-35.01995720694753,Manhã,Monitoramento,5
+2025-05-18 07:01:00,Furto,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.265746400207222,-35.04003051179715,Noite,BO,3
+2025-04-26 15:44:00,Violência doméstica,Rua do Sol,Centro,-8.277397687954739,-35.029685189980455,Tarde,Monitoramento,4
+2025-04-18 06:53:00,Assalto,Av. Presidente Kennedy,Centro,-8.280558097536279,-35.04932524459639,Tarde,Monitoramento,1
+2025-03-15 01:15:00,Violência doméstica,Rua Professor Luís Sobrinho,Suape,-8.282387245643525,-35.01755004271887,Madrugada,Monitoramento,1
+2025-07-23 16:36:00,Roubo,Rua do Forte,Centro,-8.246721409805124,-35.00601822934787,Tarde,Relato anônimo,3
+2025-07-08 13:11:00,Furto,Rua do Canal,Gaibu,-8.22917043856221,-35.0491836890722,Manhã,Imprensa,1
+2025-05-22 15:02:00,Vandalismo,Av. Governador Agamenon Magalhães,Centro,-8.261191984081982,-35.02541644985654,Madrugada,Imprensa,3
+2025-05-11 07:46:00,Arrombamento,Rua do Canal,Ponte dos Carvalhos,-8.228254926669557,-35.05020745713388,Manhã,Imprensa,2
+2025-07-26 05:53:00,Roubo,Av. Governador Agamenon Magalhães,Pontezinha,-8.303993046054519,-35.0449848161361,Madrugada,Monitoramento,2
+2025-02-21 09:12:00,Violência doméstica,Av. Presidente Kennedy,Novo Horizonte,-8.336097393107744,-35.04314387554202,Manhã,Relato anônimo,1
+2025-07-01 15:16:00,Furto,Rua Sete de Setembro,Charneca,-8.301978316538841,-35.026240155338094,Manhã,Relato anônimo,3
+2025-04-22 03:51:00,Furto,Rua da Matriz,Pontezinha,-8.27445610060557,-34.9830957290196,Noite,Monitoramento,4
+2025-03-31 15:44:00,Arrombamento,Rua Monsenhor Fabrício,Pontezinha,-8.259239404045347,-35.04442259139156,Madrugada,Imprensa,5
+2025-03-04 13:38:00,Furto,Av. Presidente Kennedy,Charneca,-8.30546036678371,-35.01770202071234,Tarde,Imprensa,3
+2025-05-01 14:38:00,Roubo,Rua da Praia,Suape,-8.316005830175515,-34.984213530853644,Madrugada,Relato anônimo,4
+2025-07-19 13:17:00,Furto,Rua da Matriz,Pontezinha,-8.253513996981967,-35.04172939130262,Manhã,BO,4
+2025-03-20 19:43:00,Furto,Av. Tejucupapo,Centro,-8.325828363227272,-34.99615319064586,Madrugada,BO,2
+2025-05-21 18:02:00,Roubo,Rua do Canal,Pontezinha,-8.285863496131315,-34.999054592200665,Tarde,Monitoramento,3
+2025-06-27 11:25:00,Furto,Av. Presidente Kennedy,Enseada dos Corais,-8.32286069146986,-35.04498437557385,Noite,Imprensa,2
+2025-06-19 16:24:00,Vandalismo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.282868907507044,-35.028825485155885,Manhã,Imprensa,3
+2025-08-08 15:12:00,Arrombamento,Rua do Comércio,Suape,-8.294251636786981,-35.01442875169131,Manhã,Relato anônimo,1
+2025-08-05 10:42:00,Homicídio,Rua da Estação,Ponte dos Carvalhos,-8.309690510734564,-35.03355948712554,Noite,BO,5
+2025-08-10 20:11:00,Assalto,Rua Sete de Setembro,Enseada dos Corais,-8.279992609207202,-35.01713902914853,Noite,Relato anônimo,1
+2025-06-18 00:23:00,Vandalismo,Rua do Sol,Gaibu,-8.265209628047778,-35.05811605229595,Noite,Monitoramento,5
+2025-05-02 12:45:00,Roubo,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.32135285426839,-34.99805807945254,Madrugada,Monitoramento,4
+2025-05-04 20:04:00,Violência doméstica,Av. Presidente Kennedy,Enseada dos Corais,-8.27469214970051,-35.04871216341392,Madrugada,Monitoramento,5
+2025-03-17 13:32:00,Furto,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.244221200611936,-35.02710813414268,Manhã,BO,5
+2025-05-05 22:14:00,Roubo,Av. Tejucupapo,Enseada dos Corais,-8.253517570398405,-35.028312037964746,Noite,Imprensa,1
+2025-03-16 20:19:00,Furto,Av. Governador Agamenon Magalhães,Suape,-8.231481301877949,-34.98611647893892,Manhã,Relato anônimo,5
+2025-07-30 19:46:00,Vandalismo,Rua do Sol,Enseada dos Corais,-8.289224103711977,-35.00571072622614,Noite,BO,1
+2025-07-08 13:39:00,Roubo,Av. Laura Machado,Gaibu,-8.26686560126037,-34.99578421106169,Manhã,Monitoramento,5
+2025-04-15 21:25:00,Furto,Rua Sete de Setembro,Novo Horizonte,-8.307123086514503,-35.01284871350004,Noite,Monitoramento,1
+2025-05-29 15:29:00,Arrombamento,Av. Tejucupapo,Novo Horizonte,-8.25653938782876,-35.07396848716058,Tarde,Imprensa,5
+2025-05-25 04:48:00,Roubo,Rua da Praia,Pontezinha,-8.312581462816643,-35.080980804444,Noite,BO,3
+2025-06-07 07:09:00,Furto,Rua do Rosário,Suape,-8.289735170861114,-35.0120614436051,Manhã,BO,3
+2025-03-24 10:59:00,Vandalismo,Rua Dr. João Leitão,Gaibu,-8.245441073697599,-35.02814763048951,Noite,Relato anônimo,2
+2025-06-19 09:31:00,Assalto,Rua do Carmo,Novo Horizonte,-8.242284611360716,-35.06450253645537,Manhã,BO,4
+2025-07-11 11:03:00,Assalto,Rua Professor Luís Sobrinho,Gaibu,-8.325584560983879,-35.03138869247242,Manhã,Imprensa,4
+2025-06-29 00:54:00,Assalto,Rua do Forte,Suape,-8.273398363776517,-35.03081736870235,Manhã,Monitoramento,2
+2025-05-16 01:25:00,Tráfico,Rua do Canal,Charneca,-8.334686052500997,-35.03222800098782,Manhã,Relato anônimo,3
+2025-06-21 14:48:00,Assalto,Av. Presidente Kennedy,Charneca,-8.31561173751262,-35.01325818627925,Noite,BO,2
+2025-05-09 17:23:00,Vandalismo,Rua Monsenhor Fabrício,Pontezinha,-8.273835043847578,-35.05349699465818,Tarde,Relato anônimo,5
+2025-02-23 01:08:00,Assalto,Rua do Carmo,Centro,-8.295846672933417,-35.05648033804722,Noite,Monitoramento,5
+2025-05-06 19:20:00,Homicídio,Rua do Carmo,Enseada dos Corais,-8.28456697743183,-35.00612144198747,Tarde,Monitoramento,5
+2025-06-21 16:34:00,Arrombamento,Rua Sete de Setembro,Pontezinha,-8.307643151158388,-35.017398837112054,Madrugada,Imprensa,4
+2025-08-03 03:26:00,Violência doméstica,Rua do Canal,Pontezinha,-8.296256440459311,-35.04982182080656,Noite,BO,5
+2025-07-11 15:10:00,Homicídio,Rua Professor Luís Sobrinho,Centro,-8.285675758998863,-35.055881058060486,Madrugada,Relato anônimo,2
+2025-02-16 14:20:00,Roubo,Rua do Rosário,Gaibu,-8.296841232633678,-35.05994694731472,Madrugada,Relato anônimo,4
+2025-02-27 22:08:00,Arrombamento,Rua Dr. João Leitão,Novo Horizonte,-8.23388187167709,-35.029118411200706,Tarde,Imprensa,4
+2025-06-09 17:21:00,Assalto,Rua da Praia,Enseada dos Corais,-8.300493137699814,-35.024650502231644,Noite,Imprensa,5
+2025-07-04 09:14:00,Homicídio,Rua Professor Luís Sobrinho,Suape,-8.28580820124227,-35.035524239988334,Noite,Imprensa,2
+2025-06-14 11:35:00,Arrombamento,Rua do Forte,Pontezinha,-8.267645832498914,-35.01106230724882,Noite,Imprensa,1
+2025-05-24 11:49:00,Assalto,Av. Governador Agamenon Magalhães,Charneca,-8.296262528690262,-35.04439545601612,Tarde,Imprensa,1
+2025-06-05 20:16:00,Furto,Av. Presidente Kennedy,Pontezinha,-8.28987629242879,-35.08754802911839,Madrugada,Relato anônimo,2
+2025-03-19 03:39:00,Violência doméstica,Av. Laura Machado,Suape,-8.320879776554964,-34.99582814331389,Tarde,Relato anônimo,1
+2025-07-25 07:03:00,Assalto,Rua do Carmo,Gaibu,-8.241875807162467,-35.03622590098891,Manhã,Monitoramento,3
+2025-02-13 17:59:00,Arrombamento,Rua do Rosário,Enseada dos Corais,-8.268586075923606,-35.02221874613641,Tarde,Monitoramento,4
+2025-05-05 09:41:00,Homicídio,Rua do Comércio,Suape,-8.206027979788619,-35.00201062721413,Manhã,BO,5
+2025-05-29 05:59:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.28619793978702,-35.05388851101501,Manhã,Monitoramento,4
+2025-02-14 09:36:00,Roubo,Rua Sete de Setembro,Centro,-8.323161158006439,-35.02491340910332,Manhã,Imprensa,3
+2025-03-18 16:29:00,Homicídio,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.301908768632106,-35.065556342739946,Noite,Relato anônimo,1
+2025-03-31 00:47:00,Furto,Rua da Estação,Suape,-8.299164322106062,-35.05703870009036,Noite,Imprensa,5
+2025-07-18 20:57:00,Arrombamento,Rua do Comércio,Enseada dos Corais,-8.240821459123186,-35.00795900607626,Madrugada,Monitoramento,5
+2025-03-31 04:30:00,Furto,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.283199316032915,-34.99300139652775,Noite,Relato anônimo,1
+2025-04-21 10:19:00,Furto,Rua Professor Luís Sobrinho,Novo Horizonte,-8.281065792308809,-35.05153210503321,Manhã,Imprensa,3
+2025-06-11 09:10:00,Arrombamento,Rua da Matriz,Ponte dos Carvalhos,-8.244921898068258,-35.016527248907884,Madrugada,Imprensa,1
+2025-07-19 07:14:00,Assalto,Rua Sete de Setembro,Pontezinha,-8.308931153858161,-35.03475846695209,Tarde,Monitoramento,2
+2025-08-10 17:58:00,Homicídio,Rua do Canal,Charneca,-8.304890456334618,-35.06456999327411,Madrugada,Relato anônimo,2
+2025-06-27 22:23:00,Arrombamento,Av. Presidente Kennedy,Novo Horizonte,-8.259845561311709,-34.98226458398825,Manhã,BO,1
+2025-07-08 17:09:00,Violência doméstica,Rua do Carmo,Gaibu,-8.317964189345478,-35.015925769082735,Tarde,Imprensa,5
+2025-03-07 16:28:00,Homicídio,Rua do Comércio,Novo Horizonte,-8.299266064228044,-35.04217813459412,Manhã,Monitoramento,2
+2025-07-05 14:43:00,Assalto,Rua da Estação,Centro,-8.29780984810597,-35.051599769241996,Noite,BO,4
+2025-07-10 02:02:00,Furto,Av. Historiador Pereira da Costa,Gaibu,-8.281786959301378,-35.050773752910274,Madrugada,Imprensa,1
+2025-06-12 01:18:00,Assalto,Rua da Matriz,Ponte dos Carvalhos,-8.276238579355503,-35.03125595273623,Madrugada,Relato anônimo,2
+2025-05-20 14:55:00,Arrombamento,Rua Dr. João Leitão,Pontezinha,-8.28897370117166,-35.05268909155104,Madrugada,Monitoramento,1
+2025-07-29 11:07:00,Arrombamento,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.297419283264208,-35.01111521935436,Tarde,Monitoramento,5
+2025-02-17 09:29:00,Roubo,Rua Professor Luís Sobrinho,Centro,-8.27047707030939,-35.054438881119964,Madrugada,Monitoramento,2
+2025-04-23 06:59:00,Furto,Rua do Canal,Enseada dos Corais,-8.28051669236427,-35.01121532191571,Manhã,BO,4
+2025-04-05 02:06:00,Assalto,Av. Historiador Pereira da Costa,Gaibu,-8.324735132028033,-35.016415995190506,Manhã,Monitoramento,5
+2025-02-23 12:28:00,Arrombamento,Rua da Matriz,Gaibu,-8.299565593973645,-35.015735033285175,Tarde,Relato anônimo,1
+2025-07-09 10:36:00,Roubo,Rua Sete de Setembro,Gaibu,-8.302081478913562,-35.07512205251661,Noite,Relato anônimo,3
+2025-05-28 09:17:00,Tráfico,Rua do Carmo,Gaibu,-8.323688560947078,-35.02879787633346,Manhã,Relato anônimo,4
+2025-07-26 21:24:00,Assalto,Rua da Matriz,Pontezinha,-8.276506937456963,-35.05260791562761,Noite,Monitoramento,4
+2025-06-29 15:15:00,Roubo,Rua Monsenhor Fabrício,Enseada dos Corais,-8.267035188530565,-35.071538001556725,Tarde,Imprensa,2
+2025-05-29 17:33:00,Violência doméstica,Rua da Matriz,Charneca,-8.284651994966183,-35.060275404994066,Tarde,Monitoramento,2
+2025-06-07 11:05:00,Furto,Rua da Praia,Ponte dos Carvalhos,-8.299295902695054,-35.02881503321709,Tarde,BO,3
+2025-04-01 18:46:00,Furto,Rua da Matriz,Ponte dos Carvalhos,-8.304510334132098,-35.03961388860575,Tarde,Monitoramento,2
+2025-02-15 06:59:00,Tráfico,Rua da Praia,Suape,-8.257842679769638,-35.04442229673808,Tarde,BO,4
+2025-04-14 17:20:00,Tráfico,Rua do Comércio,Charneca,-8.26210769719837,-35.05824267136644,Noite,Monitoramento,4
+2025-04-19 11:32:00,Assalto,Rua do Canal,Suape,-8.269754895552117,-34.993960784483555,Madrugada,Monitoramento,1
+2025-04-05 11:20:00,Violência doméstica,Rua do Forte,Pontezinha,-8.34479111250318,-35.049922381386764,Madrugada,BO,5
+2025-04-19 17:59:00,Tráfico,Rua do Sol,Centro,-8.268573196820485,-35.03507613465108,Madrugada,Imprensa,2
+2025-07-07 07:31:00,Roubo,Rua Professor Luís Sobrinho,Charneca,-8.273721353165717,-35.045099629667895,Noite,Imprensa,4
+2025-03-27 23:50:00,Vandalismo,Rua do Forte,Novo Horizonte,-8.280835255313177,-35.033891930884806,Noite,Relato anônimo,2
+2025-06-30 20:03:00,Arrombamento,Rua do Forte,Enseada dos Corais,-8.253805448458504,-35.023639478917474,Manhã,BO,1
+2025-07-23 07:04:00,Arrombamento,Rua Dr. João Leitão,Enseada dos Corais,-8.274559933448119,-35.04029692415306,Tarde,BO,2
+2025-07-20 20:42:00,Assalto,Rua do Canal,Centro,-8.295190155601812,-35.040813954695494,Madrugada,Monitoramento,1
+2025-02-15 00:33:00,Roubo,Av. Governador Agamenon Magalhães,Charneca,-8.273138696440542,-35.040524612020505,Noite,Imprensa,1
+2025-03-11 03:33:00,Assalto,Rua Dr. João Leitão,Enseada dos Corais,-8.275755628577588,-34.978114980033865,Tarde,Relato anônimo,2
+2025-04-21 12:05:00,Assalto,Av. Laura Machado,Pontezinha,-8.261221882414207,-35.0381505883042,Noite,Monitoramento,4
+2025-08-06 02:41:00,Assalto,Rua Professor Luís Sobrinho,Suape,-8.2529696519459,-35.04020188432554,Manhã,BO,4
+2025-02-26 20:00:00,Furto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.333953113379446,-35.05520215777294,Tarde,BO,4
+2025-06-27 01:14:00,Tráfico,Rua da Praia,Ponte dos Carvalhos,-8.329769798025646,-35.03878783710103,Tarde,Monitoramento,3
+2025-07-01 18:42:00,Roubo,Av. Presidente Kennedy,Suape,-8.282539540520261,-34.988089067193116,Manhã,Relato anônimo,3
+2025-05-24 02:19:00,Roubo,Rua do Comércio,Enseada dos Corais,-8.274826815655896,-35.03547751322022,Tarde,Relato anônimo,5
+2025-05-21 23:08:00,Violência doméstica,Rua Monsenhor Fabrício,Pontezinha,-8.262264860470411,-35.0852783827252,Manhã,Imprensa,1
+2025-05-10 19:49:00,Roubo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.277109636047285,-35.010728370152826,Madrugada,Imprensa,1
+2025-04-11 11:35:00,Assalto,Rua da Estação,Novo Horizonte,-8.319964656144496,-35.00140614891983,Madrugada,Monitoramento,2
+2025-07-20 09:51:00,Arrombamento,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.274537589812638,-35.04038219784752,Tarde,BO,1
+2025-05-22 10:23:00,Furto,Rua Monsenhor Fabrício,Enseada dos Corais,-8.267180453347342,-34.97323267855489,Manhã,BO,1
+2025-04-22 03:08:00,Vandalismo,Rua da Estação,Pontezinha,-8.278453343623537,-35.02379448534249,Manhã,Relato anônimo,4
+2025-03-10 00:05:00,Homicídio,Av. Governador Agamenon Magalhães,Charneca,-8.294484022488506,-35.05124610923662,Noite,BO,5
+2025-02-15 09:26:00,Assalto,Rua da Praia,Charneca,-8.262241604586393,-35.051402095647724,Madrugada,BO,5
+2025-08-06 12:10:00,Tráfico,Rua Professor Luís Sobrinho,Enseada dos Corais,-8.281210844069514,-35.04194143616913,Tarde,Imprensa,3
+2025-03-26 13:17:00,Furto,Rua do Sol,Ponte dos Carvalhos,-8.27102550435634,-35.02165844736783,Madrugada,Imprensa,4
+2025-04-16 23:40:00,Violência doméstica,Rua do Canal,Suape,-8.257061501393553,-35.04275040997137,Madrugada,Relato anônimo,4
+2025-05-24 10:53:00,Roubo,Rua Sete de Setembro,Centro,-8.289746873382335,-35.05446909289456,Madrugada,Imprensa,4
+2025-05-05 19:44:00,Furto,Rua do Sol,Suape,-8.294107331501902,-35.02056748767388,Tarde,Monitoramento,3
+2025-04-27 23:44:00,Roubo,Rua Monsenhor Fabrício,Pontezinha,-8.264075284583866,-35.05305413310444,Madrugada,Relato anônimo,3
+2025-03-13 18:12:00,Furto,Rua Monsenhor Fabrício,Pontezinha,-8.261259851997359,-34.99610905352988,Tarde,BO,4
+2025-04-27 22:04:00,Vandalismo,Rua do Comércio,Novo Horizonte,-8.272664127419407,-34.98308010468605,Madrugada,Monitoramento,2
+2025-07-30 04:45:00,Assalto,Rua Professor Luís Sobrinho,Suape,-8.30234472997759,-35.061116367582784,Madrugada,Monitoramento,1
+2025-06-28 16:59:00,Homicídio,Rua do Forte,Charneca,-8.327468006222606,-34.99259889221277,Madrugada,BO,3
+2025-03-11 07:42:00,Arrombamento,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.266640858591147,-35.03138961677276,Noite,Relato anônimo,5
+2025-06-02 03:00:00,Roubo,Rua Monsenhor Fabrício,Pontezinha,-8.276000784342004,-35.05813722618246,Manhã,Imprensa,2
+2025-06-06 11:25:00,Assalto,Rua do Carmo,Gaibu,-8.22185620050958,-35.02676947045062,Madrugada,Relato anônimo,3
+2025-04-28 13:58:00,Vandalismo,Rua do Forte,Ponte dos Carvalhos,-8.280265130134877,-35.01185583440253,Manhã,BO,2
+2025-04-05 16:30:00,Furto,Rua da Praia,Novo Horizonte,-8.270974769206582,-35.024402899393024,Noite,Monitoramento,1
+2025-03-01 09:02:00,Furto,Rua da Estação,Pontezinha,-8.302761861386132,-35.0182132910716,Manhã,BO,3
+2025-06-24 05:35:00,Assalto,Av. Tejucupapo,Gaibu,-8.235949387588123,-34.99636449884613,Tarde,Imprensa,5
+2025-05-26 20:11:00,Furto,Rua da Estação,Gaibu,-8.243170334334014,-35.04278039191078,Tarde,Monitoramento,4
+2025-07-13 13:24:00,Roubo,Rua do Comércio,Novo Horizonte,-8.307740120506464,-35.03314467300249,Manhã,Relato anônimo,2
+2025-06-29 05:23:00,Furto,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.281606877192782,-35.002645212038225,Noite,Relato anônimo,4
+2025-07-14 12:39:00,Roubo,Rua do Forte,Pontezinha,-8.32531161574287,-34.99176124201349,Madrugada,BO,3
+2025-08-03 22:51:00,Furto,Rua da Estação,Enseada dos Corais,-8.286950197464474,-35.04067202674869,Noite,BO,2
+2025-03-13 05:23:00,Furto,Rua Professor Luís Sobrinho,Suape,-8.308302609381503,-35.071371416796644,Tarde,Monitoramento,4
+2025-03-31 15:40:00,Assalto,Rua Monsenhor Fabrício,Charneca,-8.262420735400951,-35.028167050820294,Tarde,Relato anônimo,4
+2025-06-07 19:03:00,Furto,Av. Tejucupapo,Pontezinha,-8.315249022493525,-35.06237696930159,Noite,BO,4
+2025-05-27 21:31:00,Roubo,Rua Monsenhor Fabrício,Novo Horizonte,-8.291394617482252,-34.98827446186777,Madrugada,Monitoramento,4
+2025-04-27 01:17:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.28948978378409,-35.06757857382795,Tarde,Imprensa,2
+2025-07-08 03:17:00,Violência doméstica,Rua do Forte,Ponte dos Carvalhos,-8.289143576602148,-35.036818089243695,Noite,BO,4
+2025-07-29 07:19:00,Assalto,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.350422166073539,-35.03135737166295,Manhã,Monitoramento,3
+2025-03-14 07:13:00,Furto,Av. Presidente Kennedy,Novo Horizonte,-8.288773363255217,-35.012594840879665,Noite,Monitoramento,2
+2025-02-27 18:22:00,Assalto,Rua do Comércio,Gaibu,-8.236776097626366,-35.00183587426131,Noite,Relato anônimo,3
+2025-07-08 08:54:00,Vandalismo,Rua Sete de Setembro,Suape,-8.28972221726387,-35.05766314771854,Manhã,Relato anônimo,4
+2025-08-10 04:15:00,Tráfico,Av. Laura Machado,Enseada dos Corais,-8.218666004918752,-35.02851953914964,Tarde,Imprensa,2
+2025-03-20 18:40:00,Arrombamento,Rua Monsenhor Fabrício,Novo Horizonte,-8.282651767702175,-35.03060312717775,Noite,Monitoramento,4
+2025-06-23 23:17:00,Homicídio,Av. Presidente Kennedy,Charneca,-8.278047880980804,-35.0336090102981,Noite,Monitoramento,4
+2025-06-09 20:42:00,Furto,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.297341550172005,-35.04367147353101,Noite,BO,5
+2025-06-18 08:20:00,Furto,Rua Dr. João Leitão,Gaibu,-8.283818831755399,-35.043585619278346,Noite,Imprensa,5
+2025-08-05 01:02:00,Assalto,Rua do Forte,Pontezinha,-8.300821144566928,-35.027339244307704,Manhã,Monitoramento,1
+2025-06-08 00:27:00,Roubo,Av. Tejucupapo,Novo Horizonte,-8.28937443043552,-34.99240017528543,Tarde,Relato anônimo,3
+2025-07-29 11:16:00,Roubo,Av. Laura Machado,Ponte dos Carvalhos,-8.349274245209825,-35.00271232870194,Manhã,Imprensa,2
+2025-06-01 20:05:00,Roubo,Rua Sete de Setembro,Gaibu,-8.251847870187559,-35.081834755810206,Manhã,BO,2
+2025-06-24 21:28:00,Homicídio,Rua do Sol,Gaibu,-8.291567189852008,-35.03928602164989,Manhã,BO,3
+2025-06-14 02:14:00,Violência doméstica,Rua Dr. João Leitão,Enseada dos Corais,-8.318187792367945,-35.04944541718977,Madrugada,BO,1
+2025-03-19 12:49:00,Roubo,Rua do Canal,Suape,-8.310764396136646,-34.98619323891441,Tarde,Relato anônimo,1
+2025-06-04 11:46:00,Assalto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.259608040171313,-34.99821112262515,Tarde,Relato anônimo,4
+2025-03-06 03:08:00,Assalto,Rua da Estação,Gaibu,-8.264958198398919,-35.05822629428043,Manhã,Monitoramento,3
+2025-04-16 08:41:00,Vandalismo,Rua da Praia,Enseada dos Corais,-8.296113006656993,-35.017765635969305,Manhã,Relato anônimo,5
+2025-07-30 09:13:00,Assalto,Rua Sete de Setembro,Centro,-8.313553195222298,-35.01217503924569,Tarde,Monitoramento,3
+2025-05-21 03:15:00,Assalto,Rua Professor Luís Sobrinho,Novo Horizonte,-8.289008134953953,-35.03937052018874,Madrugada,BO,5
+2025-05-04 04:24:00,Tráfico,Av. Historiador Pereira da Costa,Pontezinha,-8.265226000794913,-35.01889341721285,Madrugada,Imprensa,5
+2025-02-16 18:04:00,Arrombamento,Rua do Forte,Ponte dos Carvalhos,-8.292024154145476,-35.001016754915895,Manhã,Imprensa,2
+2025-06-21 09:40:00,Roubo,Rua da Matriz,Charneca,-8.310026583189996,-35.01460160982639,Madrugada,Monitoramento,4
+2025-04-24 02:19:00,Roubo,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.26817246855079,-35.03773866098285,Manhã,Relato anônimo,2
+2025-05-02 22:27:00,Assalto,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.274846674443946,-35.061277839409634,Tarde,BO,2
+2025-06-08 19:38:00,Roubo,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.259899324519827,-35.034622553411076,Manhã,Imprensa,2
+2025-03-25 15:22:00,Roubo,Rua do Sol,Centro,-8.296068075512975,-35.00377476935408,Noite,Relato anônimo,3
+2025-02-19 10:51:00,Roubo,Av. Laura Machado,Ponte dos Carvalhos,-8.300608592263568,-35.06521153240909,Madrugada,Imprensa,5
+2025-06-08 16:23:00,Roubo,Av. Presidente Kennedy,Novo Horizonte,-8.321915729338096,-35.01484975121636,Manhã,Monitoramento,5
+2025-03-10 18:43:00,Roubo,Av. Tejucupapo,Suape,-8.315010733812407,-34.98613014545039,Manhã,Relato anônimo,5
+2025-02-23 15:23:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.335048235197092,-34.98758859079275,Madrugada,Relato anônimo,2
+2025-04-10 10:15:00,Vandalismo,Rua da Matriz,Charneca,-8.277724563319934,-35.03241782779676,Madrugada,Imprensa,3
+2025-06-20 21:57:00,Violência doméstica,Rua do Canal,Ponte dos Carvalhos,-8.296622977170223,-35.0200215971412,Manhã,Relato anônimo,2
+2025-03-01 14:55:00,Violência doméstica,Rua da Matriz,Charneca,-8.28394086756062,-35.00241745294959,Noite,Imprensa,3
+2025-05-17 06:18:00,Roubo,Rua da Estação,Centro,-8.280144308783449,-35.026242455963455,Noite,Relato anônimo,4
+2025-07-01 07:09:00,Furto,Rua do Forte,Gaibu,-8.292090305305345,-35.031423640593026,Manhã,Monitoramento,1
+2025-05-08 00:48:00,Roubo,Rua do Canal,Centro,-8.275304955777697,-35.07275420981642,Madrugada,Imprensa,1
+2025-06-17 01:09:00,Roubo,Rua Professor Luís Sobrinho,Charneca,-8.316704635552643,-35.011418397649436,Noite,BO,1
+2025-08-10 11:29:00,Vandalismo,Rua do Carmo,Charneca,-8.2787283640468,-35.03459958340882,Manhã,BO,5
+2025-07-13 18:03:00,Roubo,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.282539151673365,-35.021310457365956,Madrugada,Relato anônimo,2
+2025-08-10 23:20:00,Furto,Rua da Praia,Charneca,-8.296493992007733,-35.04945761813506,Noite,Monitoramento,3
+2025-07-11 03:09:00,Roubo,Rua do Comércio,Enseada dos Corais,-8.278103868622557,-35.054459319440376,Manhã,Relato anônimo,4
+2025-06-29 11:49:00,Homicídio,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.272793681107137,-35.07256459010595,Tarde,Monitoramento,3
+2025-03-24 21:19:00,Homicídio,Rua do Rosário,Ponte dos Carvalhos,-8.257271109066858,-35.01818506293967,Manhã,Relato anônimo,3
+2025-05-24 16:03:00,Roubo,Rua Professor Luís Sobrinho,Pontezinha,-8.276599256642152,-35.00543272540136,Noite,Imprensa,2
+2025-07-04 23:35:00,Roubo,Rua Monsenhor Fabrício,Novo Horizonte,-8.241363138888435,-35.00464074837455,Tarde,BO,4
+2025-02-15 01:53:00,Roubo,Rua do Sol,Ponte dos Carvalhos,-8.32902185578329,-35.061989424168395,Tarde,Relato anônimo,2
+2025-07-11 18:16:00,Violência doméstica,Rua do Canal,Ponte dos Carvalhos,-8.298620464442392,-35.02934772374473,Manhã,BO,1
+2025-03-07 10:07:00,Roubo,Rua da Estação,Enseada dos Corais,-8.270058524488272,-35.04814359532884,Manhã,Monitoramento,1
+2025-06-19 00:24:00,Roubo,Rua Dr. João Leitão,Charneca,-8.278330830888072,-35.04888457330883,Madrugada,Relato anônimo,3
+2025-04-24 14:56:00,Roubo,Av. Tejucupapo,Suape,-8.298287945074799,-35.065166527421205,Tarde,BO,5
+2025-06-19 13:56:00,Assalto,Rua Professor Luís Sobrinho,Suape,-8.306080831152773,-35.06379211514041,Madrugada,BO,1
+2025-04-04 20:56:00,Furto,Rua do Sol,Charneca,-8.307396831324432,-35.0036589550848,Tarde,BO,4
+2025-07-01 15:22:00,Violência doméstica,Rua do Canal,Novo Horizonte,-8.306734972220799,-34.964190448379064,Noite,Monitoramento,3
+2025-02-19 08:03:00,Roubo,Rua da Praia,Gaibu,-8.270667052477977,-35.02537909690763,Madrugada,Imprensa,5
+2025-04-16 21:15:00,Vandalismo,Av. Tejucupapo,Ponte dos Carvalhos,-8.30445894450453,-35.01249225301478,Noite,BO,2
+2025-03-28 05:15:00,Assalto,Rua Monsenhor Fabrício,Pontezinha,-8.297390945655945,-35.02694975463387,Noite,Imprensa,5
+2025-07-06 06:53:00,Roubo,Rua do Canal,Enseada dos Corais,-8.21899788654328,-35.03240149749312,Madrugada,Imprensa,2
+2025-04-12 19:14:00,Assalto,Av. Presidente Kennedy,Centro,-8.254268166842857,-35.047579410628146,Manhã,Monitoramento,1
+2025-05-10 22:11:00,Furto,Rua do Comércio,Enseada dos Corais,-8.283874712262424,-34.98572998410911,Noite,BO,1
+2025-06-26 11:04:00,Roubo,Rua do Sol,Ponte dos Carvalhos,-8.298674176444694,-34.98468878605008,Noite,Monitoramento,5
+2025-03-18 05:46:00,Roubo,Rua Sete de Setembro,Pontezinha,-8.265306201613612,-35.04406166939736,Madrugada,Monitoramento,3
+2025-04-10 21:37:00,Roubo,Av. Governador Agamenon Magalhães,Pontezinha,-8.26718980652361,-35.00568613875933,Tarde,Monitoramento,3
+2025-03-29 23:00:00,Arrombamento,Rua Sete de Setembro,Enseada dos Corais,-8.26745475094457,-35.069255617997264,Madrugada,BO,2
+2025-06-19 04:21:00,Assalto,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.301178429395621,-35.036187965888786,Manhã,Relato anônimo,3
+2025-08-02 20:46:00,Vandalismo,Av. Tejucupapo,Ponte dos Carvalhos,-8.2848608357275,-35.01448319756123,Noite,Monitoramento,1
+2025-05-12 08:50:00,Furto,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.278557474976669,-35.063383608967754,Manhã,BO,1
+2025-05-28 15:56:00,Furto,Rua Dr. João Leitão,Enseada dos Corais,-8.27349505372485,-35.01473535636791,Madrugada,Imprensa,5
+2025-03-25 14:04:00,Furto,Rua do Forte,Gaibu,-8.269005238801723,-35.00298048186114,Manhã,Imprensa,1
+2025-05-10 05:56:00,Furto,Rua do Rosário,Ponte dos Carvalhos,-8.262151946136276,-35.01852049801929,Madrugada,Relato anônimo,1
+2025-07-14 19:57:00,Assalto,Av. Presidente Kennedy,Pontezinha,-8.284754142786465,-35.0715240233379,Madrugada,BO,4
+2025-03-24 01:06:00,Vandalismo,Av. Tejucupapo,Charneca,-8.272259544521685,-35.02480780782092,Noite,Relato anônimo,2
+2025-07-31 09:19:00,Furto,Av. Governador Agamenon Magalhães,Suape,-8.276210529070115,-35.06191871439551,Tarde,BO,1
+2025-03-23 01:23:00,Furto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.310026413510206,-35.00367117866668,Manhã,Monitoramento,1
+2025-03-08 00:13:00,Furto,Rua do Forte,Gaibu,-8.283988878846415,-35.01296248256568,Tarde,Imprensa,1
+2025-05-24 15:31:00,Homicídio,Rua do Rosário,Suape,-8.282292040596738,-35.029256096512604,Noite,BO,5
+2025-05-17 05:28:00,Furto,Rua do Canal,Charneca,-8.2595429048506,-35.042901118205435,Manhã,Imprensa,4
+2025-07-06 01:09:00,Homicídio,Rua Professor Luís Sobrinho,Suape,-8.280596980576474,-35.04155688221763,Manhã,BO,3
+2025-07-03 01:53:00,Violência doméstica,Rua Dr. João Leitão,Gaibu,-8.293862405685807,-35.037729303086714,Madrugada,Monitoramento,5
+2025-06-13 09:05:00,Arrombamento,Rua do Forte,Gaibu,-8.277446655709157,-35.041968715541586,Madrugada,BO,5
+2025-03-14 14:11:00,Assalto,Rua do Carmo,Enseada dos Corais,-8.25160609686066,-35.05236518255549,Tarde,Relato anônimo,2
+2025-08-05 13:12:00,Roubo,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.287671791104033,-35.04099327645685,Tarde,Imprensa,3
+2025-05-22 17:25:00,Tráfico,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.246825552891156,-35.02508613058721,Noite,Imprensa,5
+2025-03-12 13:09:00,Homicídio,Av. Historiador Pereira da Costa,Charneca,-8.257203886513283,-35.06713900932593,Tarde,BO,1
+2025-06-29 11:56:00,Assalto,Rua do Rosário,Suape,-8.276323743353268,-35.007759230109414,Madrugada,Imprensa,4
+2025-03-28 08:25:00,Assalto,Rua do Forte,Centro,-8.280942900268114,-35.003362990623366,Tarde,Monitoramento,1
+2025-02-24 23:30:00,Furto,Rua da Praia,Gaibu,-8.29593221125251,-34.99476631399536,Noite,Imprensa,1
+2025-04-24 15:54:00,Furto,Rua Sete de Setembro,Suape,-8.225527546909518,-35.039070964010996,Manhã,Relato anônimo,2
+2025-04-21 23:26:00,Furto,Rua da Estação,Pontezinha,-8.294137563035019,-34.99366538807206,Manhã,Relato anônimo,4
+2025-06-24 11:52:00,Roubo,Rua Dr. João Leitão,Novo Horizonte,-8.243510696356731,-35.043071500678835,Manhã,Relato anônimo,1
+2025-03-18 16:56:00,Furto,Rua do Carmo,Charneca,-8.293504670427396,-35.03704461522151,Manhã,Relato anônimo,2
+2025-04-16 01:29:00,Tráfico,Rua do Comércio,Centro,-8.316611262775856,-35.052966298662106,Manhã,Imprensa,2
+2025-07-24 03:43:00,Furto,Rua da Estação,Charneca,-8.308103519168801,-35.0491949391276,Manhã,Relato anônimo,3
+2025-06-13 18:35:00,Homicídio,Rua da Estação,Enseada dos Corais,-8.283867122184668,-35.02414463168659,Noite,Imprensa,2
+2025-04-25 00:24:00,Violência doméstica,Av. Laura Machado,Ponte dos Carvalhos,-8.244237487679648,-35.05495885101847,Manhã,Relato anônimo,5
+2025-07-27 07:43:00,Violência doméstica,Rua do Comércio,Gaibu,-8.258391940038084,-35.03534972110564,Tarde,Imprensa,4
+2025-03-17 20:11:00,Assalto,Av. Historiador Pereira da Costa,Novo Horizonte,-8.28423659274131,-35.01312951269583,Manhã,Relato anônimo,3
+2025-05-31 12:54:00,Assalto,Rua Sete de Setembro,Suape,-8.311068050539056,-35.0204397563454,Noite,Monitoramento,3
+2025-07-11 03:00:00,Roubo,Rua Sete de Setembro,Charneca,-8.278838694794674,-35.017688718399796,Noite,Imprensa,3
+2025-05-09 08:40:00,Arrombamento,Rua do Forte,Ponte dos Carvalhos,-8.275770783902304,-34.968617496502226,Noite,Imprensa,3
+2025-03-22 16:48:00,Assalto,Rua Sete de Setembro,Gaibu,-8.298943499606283,-35.043274923875046,Tarde,BO,5
+2025-02-18 20:31:00,Furto,Rua da Praia,Enseada dos Corais,-8.298578513160619,-35.04388692797901,Noite,Imprensa,4
+2025-05-10 23:45:00,Furto,Rua da Matriz,Gaibu,-8.298934678182663,-35.00027458672231,Tarde,Monitoramento,3
+2025-04-28 03:30:00,Assalto,Av. Tejucupapo,Enseada dos Corais,-8.247487393800252,-35.044268657343736,Tarde,Imprensa,5
+2025-07-29 02:14:00,Arrombamento,Av. Tejucupapo,Pontezinha,-8.303808889327605,-35.01821461109034,Noite,Relato anônimo,3
+2025-04-19 18:18:00,Furto,Rua da Praia,Pontezinha,-8.296805576107024,-35.014176704556114,Madrugada,BO,4
+2025-04-02 16:07:00,Roubo,Av. Presidente Kennedy,Novo Horizonte,-8.277926924478717,-35.06789360287493,Madrugada,Imprensa,4
+2025-04-04 10:26:00,Roubo,Rua do Sol,Enseada dos Corais,-8.244312369966748,-34.98510305817261,Madrugada,Relato anônimo,3
+2025-06-16 10:40:00,Tráfico,Av. Tejucupapo,Ponte dos Carvalhos,-8.298319717262109,-35.0396925389984,Tarde,Imprensa,1
+2025-03-27 18:48:00,Roubo,Av. Laura Machado,Gaibu,-8.275853365231876,-35.021638580250325,Tarde,Monitoramento,1
+2025-05-26 13:30:00,Roubo,Rua Dr. João Leitão,Charneca,-8.266536393183179,-34.979744886530845,Madrugada,BO,1
+2025-05-05 16:12:00,Assalto,Rua do Canal,Centro,-8.28742368068735,-35.04995743111346,Manhã,BO,2
+2025-03-17 03:24:00,Roubo,Rua do Canal,Suape,-8.317482980700362,-35.04827325099855,Noite,Relato anônimo,1
+2025-06-08 23:33:00,Violência doméstica,Rua Sete de Setembro,Suape,-8.283828174321844,-34.985136053412056,Noite,Monitoramento,2
+2025-04-01 05:58:00,Furto,Rua do Forte,Pontezinha,-8.295940282475904,-35.02440530120903,Madrugada,BO,2
+2025-02-17 18:32:00,Roubo,Rua do Sol,Gaibu,-8.283410572401818,-35.0002901681638,Tarde,BO,3
+2025-07-25 08:49:00,Arrombamento,Rua da Matriz,Charneca,-8.219826689353159,-35.04327171932301,Manhã,BO,1
+2025-08-07 03:26:00,Assalto,Av. Historiador Pereira da Costa,Centro,-8.295235986062956,-35.003895978073274,Madrugada,Monitoramento,1
+2025-04-05 22:43:00,Assalto,Rua do Forte,Enseada dos Corais,-8.265952712759342,-34.9838323168566,Manhã,Imprensa,4
+2025-07-21 19:44:00,Assalto,Rua do Carmo,Suape,-8.26840179536685,-35.03898230226968,Tarde,Monitoramento,1
+2025-03-13 03:31:00,Assalto,Rua do Rosário,Suape,-8.268233629232691,-35.00228241048543,Tarde,Relato anônimo,3
+2025-05-27 09:10:00,Violência doméstica,Rua do Comércio,Pontezinha,-8.262487945470065,-35.01731814922232,Manhã,Monitoramento,2
+2025-04-13 00:00:00,Arrombamento,Rua do Forte,Pontezinha,-8.25633313276027,-35.00076761023886,Manhã,BO,5
+2025-06-22 02:46:00,Assalto,Rua do Sol,Ponte dos Carvalhos,-8.24844602522406,-35.01378225281026,Manhã,Imprensa,2
+2025-06-10 01:06:00,Homicídio,Rua Sete de Setembro,Suape,-8.287177952007921,-35.02633215783917,Tarde,BO,3
+2025-03-13 03:54:00,Furto,Rua da Praia,Charneca,-8.25283727583729,-35.05042339177468,Manhã,BO,2
+2025-05-14 14:39:00,Assalto,Av. Tejucupapo,Pontezinha,-8.273783167278177,-35.03983347030819,Noite,BO,3
+2025-05-25 12:29:00,Violência doméstica,Av. Tejucupapo,Ponte dos Carvalhos,-8.28228137942663,-34.998038703434815,Noite,Monitoramento,4
+2025-03-17 22:46:00,Violência doméstica,Av. Tejucupapo,Ponte dos Carvalhos,-8.278222523299501,-35.028839086296095,Manhã,Relato anônimo,1
+2025-03-30 19:24:00,Furto,Rua do Forte,Novo Horizonte,-8.316996403524497,-35.01134366084932,Noite,BO,2
+2025-05-28 14:02:00,Homicídio,Rua do Forte,Ponte dos Carvalhos,-8.266862895471473,-34.97591863191737,Manhã,Imprensa,3
+2025-08-02 10:33:00,Roubo,Rua do Carmo,Gaibu,-8.290694455873824,-35.0245212418084,Manhã,Monitoramento,2
+2025-07-04 19:03:00,Homicídio,Rua Monsenhor Fabrício,Enseada dos Corais,-8.27676540790723,-34.99056366800591,Manhã,Relato anônimo,5
+2025-03-03 15:20:00,Tráfico,Rua do Forte,Enseada dos Corais,-8.285382388309673,-35.02302446185574,Tarde,Imprensa,3
+2025-05-26 07:05:00,Roubo,Rua Professor Luís Sobrinho,Charneca,-8.267802587257085,-35.025334771921095,Madrugada,Monitoramento,5
+2025-05-03 03:31:00,Homicídio,Rua do Forte,Novo Horizonte,-8.294160840363762,-35.025147750177545,Manhã,BO,4
+2025-03-07 19:39:00,Furto,Av. Governador Agamenon Magalhães,Centro,-8.256159206253505,-35.05566288248528,Noite,Relato anônimo,4
+2025-04-10 14:21:00,Vandalismo,Rua do Canal,Centro,-8.279675758146327,-35.04750302037348,Madrugada,Imprensa,4
+2025-05-10 11:53:00,Roubo,Rua Professor Luís Sobrinho,Centro,-8.25312383427688,-35.0680796726196,Noite,Imprensa,1
+2025-03-19 22:47:00,Roubo,Av. Tejucupapo,Novo Horizonte,-8.296973046181789,-35.020569703123385,Madrugada,BO,3
+2025-05-23 06:29:00,Assalto,Rua do Comércio,Ponte dos Carvalhos,-8.243861899269142,-35.031643756526826,Tarde,Imprensa,1
+2025-06-07 14:42:00,Arrombamento,Rua da Matriz,Ponte dos Carvalhos,-8.29687998816733,-34.98297107326399,Tarde,Monitoramento,1
+2025-07-11 15:59:00,Assalto,Rua da Matriz,Charneca,-8.319200347510405,-35.0849701489155,Tarde,Relato anônimo,2
+2025-05-30 19:58:00,Roubo,Rua da Praia,Charneca,-8.271999638748666,-35.042551355608815,Tarde,Imprensa,4
+2025-03-18 04:26:00,Vandalismo,Rua Sete de Setembro,Novo Horizonte,-8.308530820428267,-35.01229108881752,Noite,Imprensa,5
+2025-07-21 22:18:00,Assalto,Rua do Comércio,Gaibu,-8.27690498215572,-35.04410196576842,Noite,Relato anônimo,2
+2025-05-13 17:30:00,Assalto,Rua da Praia,Ponte dos Carvalhos,-8.315007609966772,-35.008188566792995,Madrugada,Imprensa,4
+2025-02-18 12:09:00,Violência doméstica,Rua do Carmo,Ponte dos Carvalhos,-8.266744970551033,-35.03247939659449,Manhã,BO,2
+2025-08-05 08:09:00,Furto,Av. Tejucupapo,Suape,-8.236834075098807,-35.056752119158155,Manhã,Imprensa,2
+2025-06-07 03:39:00,Arrombamento,Rua da Matriz,Pontezinha,-8.321138129273118,-35.047297701747034,Tarde,Monitoramento,2
+2025-05-20 12:26:00,Assalto,Rua Sete de Setembro,Centro,-8.284139650408887,-35.023916513766935,Noite,BO,1
+2025-04-10 20:45:00,Arrombamento,Rua do Comércio,Novo Horizonte,-8.289030901446408,-35.021198615087144,Noite,Relato anônimo,2
+2025-03-31 05:47:00,Furto,Av. Tejucupapo,Ponte dos Carvalhos,-8.314288485604761,-34.99390588489817,Manhã,Monitoramento,1
+2025-03-17 05:37:00,Furto,Av. Governador Agamenon Magalhães,Suape,-8.285053779459814,-35.002067604210296,Noite,BO,3
+2025-03-23 10:38:00,Homicídio,Rua do Sol,Centro,-8.274431866340556,-35.018581169521156,Manhã,Imprensa,4
+2025-03-02 22:20:00,Violência doméstica,Av. Governador Agamenon Magalhães,Pontezinha,-8.268755817994194,-35.01880728599957,Tarde,Relato anônimo,5
+2025-05-29 17:34:00,Roubo,Rua do Carmo,Enseada dos Corais,-8.266931931003311,-34.99677118674669,Madrugada,BO,3
+2025-05-07 11:18:00,Roubo,Rua do Comércio,Pontezinha,-8.278086970757462,-35.01227490606029,Tarde,Monitoramento,5
+2025-08-02 11:28:00,Violência doméstica,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.28524339235718,-34.99399706961376,Tarde,Relato anônimo,1
+2025-03-13 12:16:00,Arrombamento,Rua da Praia,Charneca,-8.299909807551481,-34.98497648917723,Noite,BO,5
+2025-06-16 01:18:00,Violência doméstica,Rua do Canal,Novo Horizonte,-8.284003948766108,-35.065769377552954,Tarde,Imprensa,5
+2025-06-29 17:00:00,Roubo,Rua do Rosário,Enseada dos Corais,-8.27979738962723,-35.04702629143687,Manhã,Relato anônimo,2
+2025-04-05 17:53:00,Tráfico,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.261983911275282,-35.04631559948256,Madrugada,BO,2
+2025-03-06 02:03:00,Roubo,Rua da Praia,Centro,-8.29415458583037,-35.07723851827364,Tarde,Imprensa,5
+2025-05-27 12:28:00,Roubo,Rua Professor Luís Sobrinho,Suape,-8.294307657981227,-35.090596983165725,Madrugada,Monitoramento,3
+2025-07-26 23:39:00,Roubo,Rua do Rosário,Centro,-8.322597570587142,-35.010989633596395,Manhã,BO,1
+2025-04-27 21:19:00,Furto,Rua do Carmo,Ponte dos Carvalhos,-8.263354996033728,-35.01936356095538,Manhã,Imprensa,4
+2025-03-24 17:14:00,Furto,Av. Historiador Pereira da Costa,Novo Horizonte,-8.30717440357823,-35.03119278390355,Tarde,Monitoramento,5
+2025-08-04 23:41:00,Furto,Rua do Sol,Suape,-8.283090063477264,-35.05895911722981,Noite,BO,5
+2025-02-22 00:36:00,Tráfico,Rua do Sol,Ponte dos Carvalhos,-8.245415042455821,-35.00806594273561,Madrugada,BO,3
+2025-05-28 20:54:00,Roubo,Rua do Canal,Gaibu,-8.288524104345742,-35.02932785402514,Tarde,Relato anônimo,2
+2025-03-13 05:42:00,Roubo,Av. Laura Machado,Gaibu,-8.27779042980131,-35.08104337171061,Manhã,Monitoramento,5
+2025-03-09 06:46:00,Roubo,Av. Presidente Kennedy,Suape,-8.289179434563014,-35.04704960619995,Madrugada,Imprensa,3
+2025-04-25 19:04:00,Roubo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.308040500247373,-35.03702750732215,Tarde,Imprensa,4
+2025-07-06 18:23:00,Homicídio,Rua Sete de Setembro,Enseada dos Corais,-8.238057836828762,-35.013978928468326,Noite,Monitoramento,2
+2025-07-26 13:17:00,Roubo,Rua Professor Luís Sobrinho,Gaibu,-8.297279474744569,-35.0156854304661,Noite,Relato anônimo,3
+2025-05-14 09:31:00,Tráfico,Rua da Estação,Novo Horizonte,-8.248016114085349,-35.00688415792718,Manhã,Relato anônimo,5
+2025-06-29 06:16:00,Roubo,Av. Laura Machado,Enseada dos Corais,-8.281509240751996,-35.04617341944264,Manhã,BO,1
+2025-07-13 06:58:00,Tráfico,Av. Historiador Pereira da Costa,Charneca,-8.26554441715966,-35.020162865364455,Manhã,Imprensa,5
+2025-07-29 04:23:00,Tráfico,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.260620169499306,-35.01412070495795,Madrugada,Relato anônimo,5
+2025-06-10 16:32:00,Arrombamento,Rua Sete de Setembro,Enseada dos Corais,-8.256761182117016,-35.043380880289014,Manhã,Monitoramento,3
+2025-06-23 04:28:00,Assalto,Rua Professor Luís Sobrinho,Enseada dos Corais,-8.250065148359141,-35.025060009882694,Tarde,Relato anônimo,5
+2025-05-14 01:14:00,Vandalismo,Rua do Sol,Novo Horizonte,-8.231118478184367,-35.04722969545224,Madrugada,Relato anônimo,1
+2025-08-02 06:33:00,Furto,Rua Professor Luís Sobrinho,Centro,-8.239600904920868,-35.025052230413436,Noite,Monitoramento,4
+2025-07-28 10:06:00,Tráfico,Rua da Matriz,Centro,-8.29928545009036,-35.04209714585136,Noite,Imprensa,5
+2025-07-29 12:23:00,Assalto,Av. Tejucupapo,Charneca,-8.291008682704858,-35.01939585133995,Manhã,Imprensa,4
+2025-05-13 11:31:00,Vandalismo,Rua Professor Luís Sobrinho,Charneca,-8.269929112799112,-35.044342500098466,Madrugada,BO,5
+2025-04-11 02:32:00,Tráfico,Rua da Estação,Enseada dos Corais,-8.283608864806524,-34.9764432410347,Noite,Relato anônimo,2
+2025-07-31 07:26:00,Roubo,Rua do Canal,Ponte dos Carvalhos,-8.23981142074748,-35.01909190825815,Noite,BO,4
+2025-07-13 05:41:00,Arrombamento,Rua do Forte,Gaibu,-8.282049913045794,-35.026999216832046,Madrugada,BO,2
+2025-07-23 16:02:00,Roubo,Av. Tejucupapo,Enseada dos Corais,-8.26766205068174,-35.05556981412996,Tarde,BO,2
+2025-07-15 18:40:00,Furto,Av. Tejucupapo,Charneca,-8.289434413435583,-35.07171460184694,Manhã,Imprensa,1
+2025-03-27 07:53:00,Roubo,Rua do Forte,Novo Horizonte,-8.273019421934867,-35.013820101507434,Madrugada,Relato anônimo,5
+2025-03-26 23:43:00,Violência doméstica,Av. Tejucupapo,Suape,-8.295079661557484,-34.99065033091775,Noite,Monitoramento,5
+2025-05-21 04:06:00,Assalto,Rua Professor Luís Sobrinho,Charneca,-8.313644141575057,-35.066609372005246,Manhã,Relato anônimo,5
+2025-03-22 19:06:00,Tráfico,Rua do Carmo,Charneca,-8.277388704536,-35.0038225424347,Tarde,Monitoramento,5
+2025-03-07 15:42:00,Assalto,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.240901807713552,-35.041472106571725,Tarde,BO,4
+2025-08-09 16:27:00,Assalto,Rua do Canal,Centro,-8.256032979164218,-35.030962711737516,Tarde,Monitoramento,4
+2025-03-18 08:30:00,Furto,Rua do Rosário,Charneca,-8.28731568249852,-35.00790850156283,Tarde,BO,3
+2025-04-18 06:00:00,Assalto,Av. Governador Agamenon Magalhães,Charneca,-8.266691928039664,-35.06940980392461,Manhã,BO,5
+2025-05-27 11:06:00,Roubo,Rua do Comércio,Pontezinha,-8.246086491256852,-34.99549771614632,Tarde,Monitoramento,5
+2025-07-06 11:39:00,Furto,Av. Governador Agamenon Magalhães,Charneca,-8.298639067537737,-35.02010491166406,Noite,Monitoramento,2
+2025-03-29 11:35:00,Furto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.27064924534293,-35.0234831558544,Madrugada,Imprensa,3
+2025-07-30 03:47:00,Assalto,Rua Monsenhor Fabrício,Enseada dos Corais,-8.296757628846136,-35.046790584198455,Tarde,Monitoramento,2
+2025-05-09 17:39:00,Roubo,Rua do Carmo,Charneca,-8.283638851774786,-35.00068177451852,Manhã,Relato anônimo,4
+2025-03-21 15:59:00,Vandalismo,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.269409996135138,-35.03926535830215,Madrugada,BO,1
+2025-07-17 01:46:00,Furto,Rua do Canal,Ponte dos Carvalhos,-8.263707532233791,-35.101213565515756,Madrugada,Monitoramento,5
+2025-03-28 20:31:00,Assalto,Rua Sete de Setembro,Centro,-8.254280857490697,-35.073492844469456,Madrugada,BO,2
+2025-04-02 01:50:00,Tráfico,Rua do Carmo,Suape,-8.292061023535078,-35.057991747365655,Tarde,Relato anônimo,1
+2025-03-06 08:49:00,Furto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.315367036893022,-35.00097933031554,Madrugada,Imprensa,4
+2025-03-01 02:35:00,Furto,Rua do Comércio,Centro,-8.294692530032798,-35.02133740295673,Noite,Imprensa,3
+2025-07-17 06:29:00,Vandalismo,Av. Laura Machado,Gaibu,-8.284173014471978,-35.018073979319425,Madrugada,BO,3
+2025-07-05 02:32:00,Roubo,Rua do Carmo,Ponte dos Carvalhos,-8.281079452723493,-35.062074805604716,Noite,Imprensa,1
+2025-08-08 14:24:00,Violência doméstica,Av. Laura Machado,Suape,-8.258093329513821,-35.042343914579035,Madrugada,Relato anônimo,3
+2025-07-12 00:30:00,Vandalismo,Rua da Estação,Novo Horizonte,-8.321914547466493,-35.040702879024145,Manhã,Imprensa,1
+2025-05-03 13:22:00,Furto,Rua Professor Luís Sobrinho,Gaibu,-8.245481005234142,-35.00874445644716,Manhã,Imprensa,2
+2025-03-03 17:59:00,Furto,Rua Monsenhor Fabrício,Pontezinha,-8.291716303360197,-35.03873144260796,Tarde,Monitoramento,3
+2025-08-05 06:31:00,Furto,Av. Laura Machado,Enseada dos Corais,-8.291040876280434,-34.97808130041098,Tarde,Relato anônimo,2
+2025-04-04 07:53:00,Tráfico,Rua do Comércio,Gaibu,-8.27345161369421,-35.01924895882023,Noite,Relato anônimo,1
+2025-07-19 00:48:00,Roubo,Av. Presidente Kennedy,Novo Horizonte,-8.257242913649204,-35.02403027102434,Manhã,Monitoramento,3
+2025-06-17 05:48:00,Assalto,Rua do Forte,Suape,-8.289476053645517,-35.034908746227124,Noite,Monitoramento,2
+2025-06-26 13:30:00,Arrombamento,Rua do Sol,Centro,-8.28479003148535,-35.03093055591275,Manhã,Imprensa,4
+2025-03-14 22:33:00,Tráfico,Av. Tejucupapo,Novo Horizonte,-8.264809261409075,-35.02870135285482,Madrugada,Imprensa,1
+2025-07-10 03:20:00,Roubo,Rua do Comércio,Charneca,-8.26468399806961,-35.03201791450272,Noite,Imprensa,2
+2025-06-12 19:21:00,Assalto,Rua Professor Luís Sobrinho,Suape,-8.281034120242097,-35.079955017113306,Noite,Relato anônimo,4
+2025-05-16 12:17:00,Furto,Rua Dr. João Leitão,Pontezinha,-8.260091808132437,-35.02133778810255,Madrugada,Relato anônimo,5
+2025-04-22 07:35:00,Roubo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.258049747253509,-35.102406384454845,Madrugada,Monitoramento,2
+2025-02-14 05:26:00,Roubo,Rua do Sol,Novo Horizonte,-8.230790632380481,-35.03348974070388,Madrugada,Relato anônimo,5
+2025-04-29 08:35:00,Assalto,Rua da Praia,Novo Horizonte,-8.255295429581562,-35.05599764817814,Manhã,Monitoramento,1
+2025-04-18 15:53:00,Arrombamento,Rua da Matriz,Gaibu,-8.267680652373436,-35.056335389079344,Manhã,Monitoramento,3
+2025-05-11 00:26:00,Furto,Rua do Canal,Suape,-8.298594224017394,-34.98214921615333,Manhã,Imprensa,5
+2025-04-25 11:20:00,Roubo,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.287767060019084,-35.02456417817051,Madrugada,Monitoramento,1
+2025-07-23 04:55:00,Furto,Rua Sete de Setembro,Novo Horizonte,-8.26124830673278,-35.01760795280069,Tarde,Imprensa,4
+2025-03-04 05:21:00,Assalto,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.27923952737141,-35.02087597493835,Tarde,Imprensa,3
+2025-04-22 14:49:00,Assalto,Av. Laura Machado,Charneca,-8.222914610369042,-35.03144046992584,Noite,Monitoramento,4
+2025-04-13 21:16:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.277972523832124,-35.00373364009981,Manhã,Relato anônimo,2
+2025-06-13 17:03:00,Furto,Rua do Rosário,Ponte dos Carvalhos,-8.25536185167605,-35.00032424236099,Manhã,Monitoramento,5
+2025-04-20 19:09:00,Arrombamento,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.26703174444927,-35.05857512281826,Manhã,Monitoramento,3
+2025-07-22 04:08:00,Roubo,Rua Sete de Setembro,Novo Horizonte,-8.242164211692472,-35.05865863482547,Tarde,BO,1
+2025-06-11 17:59:00,Assalto,Rua da Praia,Novo Horizonte,-8.275434113369023,-35.048856896250484,Noite,Monitoramento,2
+2025-07-13 19:29:00,Vandalismo,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.284603458664824,-35.02178093974241,Madrugada,Imprensa,3
+2025-06-05 09:23:00,Homicídio,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.274966069613743,-35.01945198114412,Madrugada,Imprensa,2
+2025-05-11 09:30:00,Furto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.242657218273534,-35.01866164246215,Manhã,Monitoramento,4
+2025-07-14 07:50:00,Furto,Rua Dr. João Leitão,Suape,-8.289103915882265,-35.00589782079279,Manhã,Imprensa,2
+2025-05-24 07:10:00,Furto,Av. Governador Agamenon Magalhães,Charneca,-8.253263237776883,-35.06069019537843,Madrugada,Monitoramento,2
+2025-06-24 19:51:00,Furto,Rua Dr. João Leitão,Gaibu,-8.268064998253752,-35.01247068144223,Noite,Imprensa,5
+2025-03-01 05:08:00,Violência doméstica,Rua Dr. João Leitão,Gaibu,-8.290439087584,-34.99560732966721,Noite,BO,4
+2025-04-01 10:01:00,Assalto,Av. Laura Machado,Novo Horizonte,-8.286751389675812,-35.02686058866321,Tarde,BO,5
+2025-04-21 04:45:00,Roubo,Rua do Rosário,Suape,-8.287326795607097,-35.02961052381046,Madrugada,BO,2
+2025-04-08 10:26:00,Roubo,Av. Historiador Pereira da Costa,Novo Horizonte,-8.31040687717238,-35.06600127206486,Noite,Monitoramento,3
+2025-03-04 04:03:00,Homicídio,Rua da Matriz,Pontezinha,-8.243137373419374,-35.05117403370796,Noite,Monitoramento,1
+2025-04-17 12:53:00,Assalto,Av. Tejucupapo,Gaibu,-8.307784808736407,-35.0838347528401,Manhã,BO,2
+2025-02-20 06:29:00,Furto,Rua da Estação,Gaibu,-8.298974043692237,-35.06307724483519,Manhã,Relato anônimo,4
+2025-03-24 20:46:00,Furto,Rua Sete de Setembro,Pontezinha,-8.241949620996591,-35.00475457276644,Manhã,BO,3
+2025-05-15 01:55:00,Homicídio,Rua Sete de Setembro,Gaibu,-8.300203758629442,-34.973689104866395,Tarde,BO,2
+2025-03-26 08:37:00,Assalto,Rua da Praia,Centro,-8.25845586282521,-35.03812078458772,Manhã,Monitoramento,2
+2025-08-07 19:09:00,Roubo,Rua da Matriz,Novo Horizonte,-8.345485142871839,-34.97272643568523,Noite,BO,2
+2025-07-22 01:03:00,Roubo,Av. Presidente Kennedy,Pontezinha,-8.31773931166909,-35.071134968673924,Noite,Relato anônimo,5
+2025-04-12 10:35:00,Violência doméstica,Rua do Sol,Novo Horizonte,-8.257435739199758,-34.96900618984152,Noite,Monitoramento,2
+2025-03-18 08:57:00,Roubo,Rua Monsenhor Fabrício,Pontezinha,-8.248393179537237,-35.01590227199869,Manhã,Monitoramento,4
+2025-04-01 18:11:00,Assalto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.268131141458367,-35.0086646110305,Noite,Imprensa,4
+2025-03-01 16:09:00,Furto,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.26402678525533,-35.022970214400765,Madrugada,Imprensa,3
+2025-07-25 16:24:00,Assalto,Rua da Estação,Centro,-8.280394972401202,-35.03156482819749,Tarde,BO,5
+2025-02-28 21:34:00,Tráfico,Rua Professor Luís Sobrinho,Pontezinha,-8.301849114721666,-35.03701687692167,Madrugada,Relato anônimo,5
+2025-07-18 09:20:00,Arrombamento,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.325323920354885,-35.03245849066987,Madrugada,Imprensa,1
+2025-03-17 05:55:00,Roubo,Av. Presidente Kennedy,Centro,-8.307714777678772,-35.057589732930396,Manhã,Relato anônimo,1
+2025-07-08 20:53:00,Homicídio,Rua do Rosário,Centro,-8.278502646221163,-34.99519994284139,Madrugada,Monitoramento,5
+2025-05-16 07:38:00,Assalto,Av. Laura Machado,Centro,-8.260042084849943,-35.06926251509058,Manhã,BO,2
+2025-07-25 01:23:00,Assalto,Av. Presidente Kennedy,Novo Horizonte,-8.307740703414257,-35.006480720300296,Madrugada,Imprensa,1
+2025-03-02 09:04:00,Violência doméstica,Av. Laura Machado,Centro,-8.307562184838456,-35.035615828749926,Tarde,BO,1
+2025-04-01 06:33:00,Arrombamento,Av. Governador Agamenon Magalhães,Charneca,-8.269248697524386,-35.05420861137159,Tarde,Relato anônimo,5
+2025-07-25 18:22:00,Arrombamento,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.280365612346351,-35.063350637372956,Madrugada,Monitoramento,1
+2025-06-21 10:42:00,Roubo,Av. Tejucupapo,Charneca,-8.298034191098779,-35.022005451646436,Tarde,Monitoramento,3
+2025-05-18 13:48:00,Tráfico,Av. Governador Agamenon Magalhães,Pontezinha,-8.32282484333829,-35.01898813155099,Madrugada,Imprensa,5
+2025-05-19 17:59:00,Furto,Av. Governador Agamenon Magalhães,Gaibu,-8.283490944973167,-35.016187751139576,Noite,Imprensa,4
+2025-02-20 09:38:00,Homicídio,Rua Monsenhor Fabrício,Centro,-8.277402146648383,-34.995896489250654,Manhã,Relato anônimo,3
+2025-05-03 00:49:00,Roubo,Rua Professor Luís Sobrinho,Gaibu,-8.279869387433802,-35.040735138528134,Noite,Relato anônimo,1
+2025-03-19 08:23:00,Roubo,Rua do Canal,Enseada dos Corais,-8.279942562424193,-35.01641754927409,Tarde,Relato anônimo,3
+2025-07-07 06:46:00,Violência doméstica,Av. Presidente Kennedy,Charneca,-8.281778498241858,-35.028985207719906,Manhã,Imprensa,4
+2025-02-21 23:51:00,Roubo,Rua do Rosário,Suape,-8.300549792195168,-35.046572522938774,Madrugada,BO,1
+2025-06-03 13:59:00,Vandalismo,Rua da Praia,Pontezinha,-8.318065131794992,-34.986260581420325,Manhã,Relato anônimo,5
+2025-05-01 16:02:00,Vandalismo,Rua Monsenhor Fabrício,Centro,-8.314096580884781,-35.0473226299449,Noite,Relato anônimo,3
+2025-02-24 21:46:00,Assalto,Rua Professor Luís Sobrinho,Enseada dos Corais,-8.30096018163923,-35.00762689057639,Madrugada,Monitoramento,5
+2025-06-02 09:50:00,Assalto,Av. Presidente Kennedy,Gaibu,-8.2903737419573,-34.99880644818316,Madrugada,Relato anônimo,2
+2025-07-02 12:16:00,Furto,Rua do Forte,Centro,-8.299837265606095,-35.02302514594441,Manhã,Monitoramento,5
+2025-06-15 17:12:00,Furto,Rua do Sol,Enseada dos Corais,-8.303883676331493,-34.97637127180567,Madrugada,Monitoramento,5
+2025-04-15 02:17:00,Roubo,Rua do Carmo,Gaibu,-8.312689960475737,-35.02225448224433,Madrugada,Imprensa,5
+2025-05-16 11:12:00,Roubo,Rua Dr. João Leitão,Charneca,-8.267155577976697,-35.01965502256371,Noite,Imprensa,5
+2025-05-12 19:52:00,Assalto,Rua Sete de Setembro,Enseada dos Corais,-8.287632191471943,-35.033245517493334,Madrugada,Relato anônimo,4
+2025-08-06 11:09:00,Roubo,Rua Professor Luís Sobrinho,Gaibu,-8.281904713200522,-35.03367505004071,Manhã,BO,1
+2025-02-15 10:44:00,Furto,Rua do Sol,Suape,-8.258903022080126,-34.97473692496022,Manhã,Imprensa,4
+2025-06-29 06:13:00,Homicídio,Rua da Praia,Gaibu,-8.296937294625195,-35.06424507448948,Noite,Monitoramento,5
+2025-05-19 18:57:00,Arrombamento,Rua do Sol,Centro,-8.285207051208781,-34.965507266558646,Manhã,Imprensa,2
+2025-02-25 14:41:00,Roubo,Rua do Comércio,Suape,-8.303091864199242,-34.9890220798639,Manhã,BO,4
+2025-02-16 09:55:00,Assalto,Rua do Canal,Ponte dos Carvalhos,-8.241057479648088,-35.043839706042704,Madrugada,Relato anônimo,4
+2025-06-16 19:34:00,Assalto,Rua do Rosário,Pontezinha,-8.268775423020367,-34.98929008442179,Manhã,Relato anônimo,2
+2025-02-22 07:59:00,Assalto,Rua da Estação,Centro,-8.292478193524687,-35.03508950900256,Noite,Imprensa,4
+2025-05-11 21:22:00,Furto,Av. Tejucupapo,Centro,-8.297542022848715,-35.05536891826732,Noite,Imprensa,2
+2025-02-27 20:16:00,Vandalismo,Rua do Carmo,Suape,-8.299231938626649,-35.06059850666906,Madrugada,BO,5
+2025-05-10 12:42:00,Vandalismo,Rua Professor Luís Sobrinho,Enseada dos Corais,-8.28214791329352,-35.04924933077647,Tarde,BO,4
+2025-04-14 18:09:00,Assalto,Rua Professor Luís Sobrinho,Charneca,-8.27715535220523,-35.06889739115509,Madrugada,Imprensa,5
+2025-04-05 20:08:00,Furto,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.274727994194638,-35.009161775959775,Tarde,Relato anônimo,3
+2025-06-02 04:41:00,Arrombamento,Rua do Carmo,Enseada dos Corais,-8.332843391064285,-35.02064858575381,Tarde,Imprensa,1
+2025-05-04 04:46:00,Assalto,Rua do Rosário,Enseada dos Corais,-8.252308275188167,-35.060241025467285,Manhã,Imprensa,4
+2025-07-25 23:17:00,Vandalismo,Rua Sete de Setembro,Novo Horizonte,-8.241185690329058,-35.01952452476585,Tarde,Relato anônimo,1
+2025-07-17 18:39:00,Roubo,Av. Historiador Pereira da Costa,Suape,-8.30062529639396,-35.031394226941444,Tarde,Relato anônimo,2
+2025-08-07 15:08:00,Arrombamento,Rua do Canal,Ponte dos Carvalhos,-8.269041827186957,-35.02809986521469,Madrugada,Imprensa,2
+2025-03-19 05:12:00,Tráfico,Rua do Forte,Novo Horizonte,-8.269531100188841,-35.05301683982699,Tarde,BO,4
+2025-05-28 07:47:00,Arrombamento,Av. Historiador Pereira da Costa,Suape,-8.278765979399097,-35.065342862422625,Tarde,Relato anônimo,1
+2025-08-07 10:55:00,Roubo,Rua da Estação,Novo Horizonte,-8.285780651533717,-35.052597691036624,Madrugada,Relato anônimo,4
+2025-05-03 12:39:00,Furto,Rua da Matriz,Charneca,-8.301388248564743,-34.99909767061974,Manhã,BO,4
+2025-06-24 17:25:00,Homicídio,Rua da Matriz,Gaibu,-8.255717246985142,-35.01477154697732,Manhã,Monitoramento,5
+2025-04-27 14:25:00,Arrombamento,Rua da Matriz,Gaibu,-8.310307819116813,-35.03791021124237,Noite,Imprensa,4
+2025-08-07 16:57:00,Roubo,Rua Sete de Setembro,Centro,-8.252672557500519,-35.026457077159,Tarde,Monitoramento,4
+2025-03-30 18:57:00,Roubo,Rua do Carmo,Ponte dos Carvalhos,-8.225016761500457,-35.02016705401514,Tarde,Monitoramento,4
+2025-06-08 18:57:00,Furto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.278198772087748,-35.03772791160506,Tarde,Monitoramento,1
+2025-03-07 03:45:00,Furto,Av. Tejucupapo,Ponte dos Carvalhos,-8.279661477380442,-35.03381174590952,Madrugada,Imprensa,1
+2025-05-19 17:24:00,Assalto,Rua Monsenhor Fabrício,Enseada dos Corais,-8.265297283082784,-35.006082442080135,Manhã,Relato anônimo,3
+2025-03-21 05:49:00,Assalto,Rua do Sol,Enseada dos Corais,-8.302649736512699,-35.063280823838944,Manhã,Monitoramento,3
+2025-07-22 05:07:00,Furto,Rua da Estação,Suape,-8.328905134327583,-35.01730021682719,Tarde,Relato anônimo,1
+2025-06-09 15:54:00,Assalto,Av. Laura Machado,Centro,-8.310584165154346,-35.083822264823816,Madrugada,BO,5
+2025-07-12 21:30:00,Tráfico,Rua Professor Luís Sobrinho,Gaibu,-8.273285534886725,-34.967675012064184,Madrugada,Monitoramento,4
+2025-07-02 08:39:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.283151772788496,-35.00903773063871,Tarde,BO,2
+2025-03-21 01:42:00,Roubo,Rua do Canal,Centro,-8.28095426603631,-35.03247224132978,Noite,Imprensa,1
+2025-03-25 21:18:00,Roubo,Rua Dr. João Leitão,Enseada dos Corais,-8.260023087925305,-35.03725686360472,Tarde,Monitoramento,5
+2025-04-29 10:23:00,Furto,Rua da Matriz,Ponte dos Carvalhos,-8.276315192148202,-35.0219575548451,Madrugada,BO,4
+2025-06-12 04:07:00,Tráfico,Av. Presidente Kennedy,Suape,-8.299702261341075,-35.00519894126159,Noite,Imprensa,5
+2025-07-18 01:06:00,Furto,Rua do Comércio,Gaibu,-8.287373993917384,-35.04889362898732,Manhã,Monitoramento,5
+2025-07-17 10:16:00,Vandalismo,Rua Sete de Setembro,Charneca,-8.26958725391074,-35.05246169954478,Noite,Relato anônimo,5
+2025-06-18 05:56:00,Assalto,Rua do Carmo,Novo Horizonte,-8.28229547106577,-35.03022797491611,Tarde,Imprensa,2
+2025-07-22 03:47:00,Roubo,Av. Historiador Pereira da Costa,Novo Horizonte,-8.25585261085421,-35.018132544178,Tarde,Monitoramento,4
+2025-02-14 20:12:00,Roubo,Rua do Canal,Gaibu,-8.283625673968627,-35.009555842519994,Noite,Imprensa,1
+2025-02-13 03:43:00,Furto,Rua do Carmo,Pontezinha,-8.248244811274567,-35.016054742341204,Noite,Imprensa,4
+2025-04-02 10:53:00,Arrombamento,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.282741184503916,-35.062795905808755,Noite,Monitoramento,4
+2025-03-23 20:29:00,Violência doméstica,Rua do Sol,Novo Horizonte,-8.309627841576884,-35.03763061760887,Noite,Monitoramento,4
+2025-07-06 23:43:00,Vandalismo,Rua da Matriz,Suape,-8.298237805053981,-35.034674282574635,Noite,BO,2
+2025-02-28 04:17:00,Assalto,Rua da Praia,Pontezinha,-8.281583751877571,-35.01675768114108,Manhã,Imprensa,4
+2025-03-31 19:07:00,Assalto,Av. Tejucupapo,Charneca,-8.284762469451477,-35.017837458904346,Noite,Imprensa,1
+2025-04-13 11:28:00,Furto,Av. Presidente Kennedy,Novo Horizonte,-8.281388139629746,-35.07938666415885,Noite,Relato anônimo,5
+2025-02-21 06:58:00,Furto,Rua do Rosário,Pontezinha,-8.306483384845468,-35.03360218889304,Manhã,Monitoramento,5
+2025-04-01 10:59:00,Roubo,Rua do Forte,Enseada dos Corais,-8.313242368571027,-35.015001781750094,Madrugada,Imprensa,3
+2025-04-05 23:02:00,Roubo,Rua do Rosário,Enseada dos Corais,-8.244731229191407,-34.99953095370757,Madrugada,Monitoramento,5
+2025-08-06 19:55:00,Roubo,Rua Sete de Setembro,Centro,-8.288336071773255,-34.99273184657875,Manhã,Imprensa,4
+2025-02-17 18:48:00,Tráfico,Rua do Rosário,Suape,-8.279283313569946,-35.03842714927795,Noite,Relato anônimo,3
+2025-06-28 10:49:00,Roubo,Rua Sete de Setembro,Suape,-8.298335066588523,-35.037561742162204,Madrugada,BO,3
+2025-02-15 19:35:00,Roubo,Av. Laura Machado,Ponte dos Carvalhos,-8.29270442046353,-35.025739594440616,Manhã,Relato anônimo,5
+2025-03-20 22:51:00,Furto,Rua da Praia,Suape,-8.278985650473754,-35.029923849496164,Noite,Relato anônimo,2
+2025-02-24 04:01:00,Roubo,Rua da Praia,Novo Horizonte,-8.27207654575634,-35.000233843130346,Madrugada,BO,1
+2025-05-23 05:45:00,Furto,Av. Presidente Kennedy,Charneca,-8.259261146613966,-35.06712244921125,Madrugada,Imprensa,3
+2025-06-11 18:08:00,Furto,Rua do Comércio,Ponte dos Carvalhos,-8.346848028372548,-35.00664200221902,Manhã,Monitoramento,1
+2025-04-12 07:09:00,Homicídio,Rua da Estação,Novo Horizonte,-8.317171967460386,-35.03561913504732,Noite,Imprensa,4
+2025-06-08 15:01:00,Roubo,Rua da Praia,Pontezinha,-8.312252825651484,-35.0750495109395,Manhã,Monitoramento,1
+2025-04-25 11:38:00,Furto,Rua da Estação,Enseada dos Corais,-8.269463431794879,-35.01102112099243,Tarde,BO,4
+2025-07-04 20:04:00,Violência doméstica,Rua do Rosário,Pontezinha,-8.297412760018167,-35.094776057303626,Noite,Monitoramento,4
+2025-07-02 05:30:00,Assalto,Rua Professor Luís Sobrinho,Gaibu,-8.296656111206312,-35.020204899864936,Madrugada,BO,3
+2025-07-07 10:34:00,Roubo,Rua Dr. João Leitão,Charneca,-8.319972789219353,-35.02541600200552,Tarde,Relato anônimo,1
+2025-07-13 19:29:00,Arrombamento,Rua do Forte,Ponte dos Carvalhos,-8.283382746229325,-35.015517712509975,Noite,BO,4
+2025-07-15 03:43:00,Roubo,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.280010490789646,-35.05432672352204,Madrugada,Imprensa,4
+2025-04-08 04:56:00,Assalto,Rua da Matriz,Ponte dos Carvalhos,-8.253085712458388,-35.03396323932567,Manhã,Relato anônimo,2
+2025-07-19 18:28:00,Homicídio,Rua Sete de Setembro,Charneca,-8.283682613487748,-35.053331698976834,Tarde,Relato anônimo,3
+2025-05-11 02:37:00,Furto,Rua Sete de Setembro,Charneca,-8.294082056279787,-35.05212006785067,Manhã,Monitoramento,2
+2025-07-02 01:00:00,Tráfico,Rua da Matriz,Pontezinha,-8.287323651498085,-34.98720728799644,Noite,BO,3
+2025-08-10 18:25:00,Tráfico,Rua Professor Luís Sobrinho,Charneca,-8.317297528573283,-35.07033903494692,Noite,Monitoramento,4
+2025-07-31 05:30:00,Furto,Av. Governador Agamenon Magalhães,Gaibu,-8.246220741812659,-35.035233091928795,Tarde,Relato anônimo,5
+2025-03-23 09:55:00,Furto,Rua do Canal,Charneca,-8.299726818466498,-35.0040023828151,Tarde,Relato anônimo,1
+2025-06-16 21:27:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.29814038849342,-34.984349757161326,Tarde,BO,2
+2025-08-09 19:59:00,Assalto,Rua Dr. João Leitão,Novo Horizonte,-8.266051853216517,-35.04219778520364,Madrugada,Relato anônimo,4
+2025-05-21 11:14:00,Assalto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.229067294668361,-35.045142873075086,Tarde,Monitoramento,5
+2025-06-20 08:26:00,Roubo,Rua do Forte,Gaibu,-8.264447615699767,-35.02251768548984,Noite,BO,1
+2025-07-10 15:44:00,Assalto,Rua do Canal,Ponte dos Carvalhos,-8.25045646776503,-34.99096222008183,Manhã,Relato anônimo,5
+2025-06-24 02:33:00,Vandalismo,Av. Laura Machado,Novo Horizonte,-8.282199896273355,-35.04883544675866,Manhã,Relato anônimo,4
+2025-07-18 01:57:00,Assalto,Av. Presidente Kennedy,Suape,-8.271500696426521,-35.046942884243805,Noite,BO,4
+2025-05-30 11:51:00,Homicídio,Rua do Forte,Pontezinha,-8.232665318811835,-35.02658661672293,Noite,Imprensa,2
+2025-02-27 20:30:00,Roubo,Rua Sete de Setembro,Suape,-8.292133038782803,-35.02538299235338,Tarde,BO,3
+2025-06-16 02:08:00,Violência doméstica,Av. Historiador Pereira da Costa,Suape,-8.316678157238242,-35.054290350962766,Manhã,Imprensa,3
+2025-04-18 00:47:00,Roubo,Av. Laura Machado,Suape,-8.25298965230139,-35.04642235697428,Manhã,Relato anônimo,5
+2025-03-28 08:50:00,Arrombamento,Rua da Estação,Pontezinha,-8.309172774567047,-35.016583681186816,Tarde,Monitoramento,2
+2025-03-05 04:38:00,Violência doméstica,Rua da Matriz,Pontezinha,-8.253357396133424,-35.01202616723337,Tarde,Monitoramento,4
+2025-07-25 05:13:00,Violência doméstica,Rua Professor Luís Sobrinho,Novo Horizonte,-8.258098807854854,-35.04891987721424,Noite,BO,3
+2025-03-26 14:25:00,Arrombamento,Rua do Rosário,Centro,-8.318545266668545,-34.99246665870111,Madrugada,Imprensa,4
+2025-05-20 21:45:00,Arrombamento,Av. Governador Agamenon Magalhães,Gaibu,-8.291066995971052,-35.03627082541138,Madrugada,Monitoramento,3
+2025-04-26 14:24:00,Roubo,Rua Dr. João Leitão,Centro,-8.249795146453772,-35.01609424976498,Noite,BO,1
+2025-07-18 20:54:00,Tráfico,Rua do Canal,Charneca,-8.27160280569796,-34.97587494137748,Noite,Imprensa,3
+2025-07-29 18:25:00,Furto,Rua do Rosário,Suape,-8.299087955759504,-35.00680399679797,Madrugada,Relato anônimo,5
+2025-08-04 22:11:00,Violência doméstica,Rua do Carmo,Pontezinha,-8.281574671877573,-35.02328519302842,Noite,BO,1
+2025-03-09 16:06:00,Violência doméstica,Av. Historiador Pereira da Costa,Charneca,-8.244788289339686,-35.01730410609276,Madrugada,Imprensa,2
+2025-02-20 00:39:00,Arrombamento,Av. Laura Machado,Gaibu,-8.269542598023758,-35.00318731656726,Manhã,BO,5
+2025-03-14 02:54:00,Assalto,Rua do Comércio,Ponte dos Carvalhos,-8.292123818238572,-35.050980241683476,Tarde,Monitoramento,5
+2025-08-09 05:16:00,Violência doméstica,Av. Tejucupapo,Ponte dos Carvalhos,-8.309120229850524,-35.0791589147344,Noite,Monitoramento,1
+2025-08-08 21:49:00,Assalto,Av. Laura Machado,Charneca,-8.231594821751491,-35.05758020914304,Noite,Imprensa,2
+2025-05-20 12:21:00,Violência doméstica,Av. Laura Machado,Centro,-8.288531340589644,-35.036920332497225,Manhã,Imprensa,3
+2025-04-04 19:25:00,Roubo,Av. Presidente Kennedy,Novo Horizonte,-8.275314832554772,-35.00960656968652,Tarde,Monitoramento,1
+2025-07-19 20:06:00,Roubo,Rua Dr. João Leitão,Gaibu,-8.261488162791006,-35.04457693596422,Madrugada,Imprensa,1
+2025-06-06 00:57:00,Roubo,Av. Presidente Kennedy,Suape,-8.28717804284466,-35.0229355012378,Madrugada,Relato anônimo,1
+2025-03-22 22:21:00,Vandalismo,Rua Monsenhor Fabrício,Suape,-8.289217278154588,-34.9898163605995,Madrugada,BO,5
+2025-06-03 12:54:00,Arrombamento,Rua do Forte,Novo Horizonte,-8.270725626209043,-35.01162805534876,Manhã,Relato anônimo,1
+2025-07-07 17:59:00,Furto,Rua do Forte,Ponte dos Carvalhos,-8.266427968283313,-35.00066315356287,Noite,Imprensa,3
+2025-06-28 10:05:00,Furto,Av. Presidente Kennedy,Pontezinha,-8.278474461032406,-35.062420798698895,Madrugada,Imprensa,2
+2025-07-31 06:19:00,Roubo,Rua da Matriz,Charneca,-8.273007801206184,-35.0462839223448,Madrugada,BO,3
+2025-03-19 01:12:00,Homicídio,Rua da Estação,Gaibu,-8.296215417043744,-35.015340899531125,Manhã,Relato anônimo,4
+2025-06-19 17:53:00,Furto,Av. Governador Agamenon Magalhães,Suape,-8.252042923214159,-35.0294682105816,Madrugada,BO,1
+2025-05-26 03:13:00,Furto,Rua da Praia,Centro,-8.275279174685025,-34.98744462638412,Madrugada,Relato anônimo,5
+2025-03-20 15:41:00,Roubo,Av. Presidente Kennedy,Centro,-8.276981170512785,-34.964957922145494,Manhã,Monitoramento,5
+2025-03-28 20:03:00,Roubo,Rua do Sol,Centro,-8.26886225885921,-35.0740190689789,Noite,BO,4
+2025-03-13 15:38:00,Assalto,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.264166459472387,-35.020471040377934,Tarde,BO,2
+2025-03-14 21:36:00,Furto,Rua Monsenhor Fabrício,Pontezinha,-8.250756181147931,-35.013170466218256,Tarde,Imprensa,2
+2025-02-28 03:17:00,Arrombamento,Av. Tejucupapo,Pontezinha,-8.286461399599593,-35.06060745590724,Tarde,Monitoramento,2
+2025-06-04 07:59:00,Arrombamento,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.28822558143215,-35.05126301135523,Manhã,Relato anônimo,1
+2025-02-16 15:05:00,Violência doméstica,Rua Monsenhor Fabrício,Enseada dos Corais,-8.297513086245118,-35.01528553988948,Manhã,BO,2
+2025-08-08 15:44:00,Vandalismo,Rua Sete de Setembro,Charneca,-8.241252387391214,-35.02013321175443,Tarde,Relato anônimo,2
+2025-05-28 07:11:00,Assalto,Rua do Carmo,Novo Horizonte,-8.312897076550879,-35.0188849332945,Manhã,Relato anônimo,4
+2025-05-12 13:00:00,Assalto,Av. Presidente Kennedy,Suape,-8.253084212833858,-35.045244572607984,Tarde,Relato anônimo,1
+2025-06-30 16:14:00,Vandalismo,Rua do Rosário,Pontezinha,-8.286350429166822,-35.02963279513177,Madrugada,Relato anônimo,3
+2025-08-06 15:31:00,Roubo,Rua do Rosário,Enseada dos Corais,-8.302622457827056,-35.013792989153906,Tarde,Relato anônimo,1
+2025-04-06 13:16:00,Roubo,Rua do Canal,Suape,-8.286023703715195,-35.01951168890233,Noite,Monitoramento,1
+2025-03-24 00:31:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.305187304445052,-35.04093645750809,Manhã,BO,2
+2025-04-03 23:43:00,Arrombamento,Rua da Praia,Charneca,-8.264940466054306,-35.039320828802296,Noite,Relato anônimo,1
+2025-05-28 06:24:00,Furto,Rua do Rosário,Gaibu,-8.239825903719165,-35.03999090464037,Tarde,BO,4
+2025-03-21 06:59:00,Assalto,Rua da Matriz,Charneca,-8.277382881856202,-35.00668522920317,Madrugada,Relato anônimo,4
+2025-07-23 11:17:00,Furto,Rua da Estação,Gaibu,-8.318459143323325,-35.07402022029952,Tarde,Imprensa,2
+2025-03-18 03:54:00,Roubo,Rua da Matriz,Suape,-8.321141407864252,-34.99843539741432,Madrugada,Monitoramento,4
+2025-04-28 19:10:00,Roubo,Rua da Praia,Gaibu,-8.29679645364731,-34.96604501785829,Tarde,Relato anônimo,1
+2025-04-08 18:30:00,Furto,Rua do Carmo,Novo Horizonte,-8.297106189966435,-35.02538621742008,Madrugada,Imprensa,1
+2025-05-06 13:37:00,Arrombamento,Rua Professor Luís Sobrinho,Gaibu,-8.244447251185802,-34.97984767779602,Tarde,Relato anônimo,5
+2025-02-22 15:46:00,Tráfico,Rua Dr. João Leitão,Centro,-8.23146241058409,-34.99979084423517,Manhã,Monitoramento,5
+2025-06-18 07:05:00,Furto,Rua do Rosário,Novo Horizonte,-8.257398436854713,-35.015186826269975,Manhã,Monitoramento,2
+2025-07-27 02:01:00,Roubo,Rua Sete de Setembro,Gaibu,-8.263540973095834,-35.04377964290821,Madrugada,Imprensa,2
+2025-06-10 04:55:00,Arrombamento,Av. Historiador Pereira da Costa,Novo Horizonte,-8.303454972085557,-35.03008436143527,Madrugada,Relato anônimo,3
+2025-05-21 22:21:00,Assalto,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.287254615563123,-35.041330701233186,Manhã,Imprensa,4
+2025-08-06 02:39:00,Arrombamento,Av. Governador Agamenon Magalhães,Gaibu,-8.265590313813581,-35.00611736978574,Noite,BO,5
+2025-03-12 12:23:00,Vandalismo,Rua do Canal,Centro,-8.280789827842703,-34.99306174797362,Madrugada,BO,3
+2025-07-05 22:49:00,Furto,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.311542227853337,-35.034841486481994,Tarde,Relato anônimo,3
+2025-07-10 22:13:00,Roubo,Rua do Rosário,Novo Horizonte,-8.30092055801507,-35.07666341542683,Tarde,Imprensa,3
+2025-04-23 01:04:00,Tráfico,Rua do Carmo,Charneca,-8.285067017146067,-35.033043687709586,Noite,Imprensa,4
+2025-06-12 22:34:00,Homicídio,Rua do Carmo,Ponte dos Carvalhos,-8.245163756418947,-35.01422970788613,Noite,Monitoramento,5
+2025-06-09 02:05:00,Furto,Av. Presidente Kennedy,Gaibu,-8.30860467060823,-34.983647685841646,Madrugada,Relato anônimo,3
+2025-03-26 08:07:00,Vandalismo,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.252474157611866,-35.01544755741329,Tarde,Monitoramento,2
+2025-04-28 13:43:00,Tráfico,Rua do Carmo,Centro,-8.288662102471246,-35.053985980918085,Tarde,Monitoramento,3
+2025-04-01 02:01:00,Furto,Av. Historiador Pereira da Costa,Suape,-8.292305169401775,-35.0027812845074,Tarde,Imprensa,4
+2025-07-13 21:44:00,Assalto,Rua da Praia,Novo Horizonte,-8.235885342351635,-34.9914189117932,Madrugada,Monitoramento,3
+2025-04-19 07:30:00,Assalto,Rua Sete de Setembro,Enseada dos Corais,-8.295221235544656,-35.057990435832224,Noite,Imprensa,1
+2025-03-26 19:59:00,Roubo,Rua Sete de Setembro,Novo Horizonte,-8.27947784382722,-35.07421098413907,Tarde,Imprensa,2
+2025-04-13 03:02:00,Vandalismo,Rua do Sol,Enseada dos Corais,-8.27492080714538,-35.03369006465747,Noite,Relato anônimo,4
+2025-07-05 22:02:00,Furto,Av. Tejucupapo,Gaibu,-8.294650912546706,-35.06986757668167,Noite,Imprensa,2
+2025-06-28 09:07:00,Furto,Av. Governador Agamenon Magalhães,Enseada dos Corais,-8.270159997335757,-35.04331752099155,Manhã,Monitoramento,4
+2025-03-23 00:47:00,Arrombamento,Rua da Estação,Pontezinha,-8.312247920892757,-35.10180655533204,Noite,Imprensa,4
+2025-05-09 22:07:00,Tráfico,Rua do Sol,Novo Horizonte,-8.283687872626265,-34.98569371008326,Madrugada,BO,2
+2025-02-18 12:39:00,Arrombamento,Rua do Rosário,Suape,-8.241468519636303,-35.041427406414655,Tarde,Monitoramento,3
+2025-07-11 16:14:00,Roubo,Rua da Matriz,Gaibu,-8.298055301509043,-35.018280643598125,Noite,Relato anônimo,1
+2025-06-23 12:12:00,Roubo,Rua da Estação,Ponte dos Carvalhos,-8.307959635979707,-35.02245520250452,Madrugada,Imprensa,5
+2025-05-24 04:45:00,Assalto,Rua da Matriz,Pontezinha,-8.263847993040383,-34.99932666940289,Madrugada,Imprensa,4
+2025-05-12 09:28:00,Furto,Rua Sete de Setembro,Pontezinha,-8.285503851911999,-35.03509184375442,Manhã,Relato anônimo,4
+2025-04-26 05:51:00,Arrombamento,Rua Dr. João Leitão,Novo Horizonte,-8.304949564668913,-35.050672008850995,Madrugada,Monitoramento,2
+2025-04-06 09:30:00,Violência doméstica,Av. Presidente Kennedy,Enseada dos Corais,-8.288661972297538,-35.0208158623296,Noite,BO,5
+2025-05-27 20:58:00,Arrombamento,Av. Presidente Kennedy,Centro,-8.260160384344168,-35.050079473767006,Noite,Monitoramento,2
+2025-03-31 12:18:00,Assalto,Rua do Sol,Gaibu,-8.245682785776012,-35.03677809002607,Madrugada,BO,3
+2025-07-05 23:29:00,Violência doméstica,Rua Sete de Setembro,Novo Horizonte,-8.28353418235871,-35.0486802919787,Tarde,BO,1
+2025-03-15 20:42:00,Roubo,Rua Sete de Setembro,Novo Horizonte,-8.343606006506823,-35.00789886509097,Noite,Monitoramento,2
+2025-03-14 08:31:00,Assalto,Rua Professor Luís Sobrinho,Centro,-8.264578902572689,-35.03703318892796,Manhã,Imprensa,5
+2025-07-22 21:30:00,Homicídio,Rua Dr. João Leitão,Suape,-8.281325232069378,-35.0171015195574,Manhã,Imprensa,5
+2025-03-25 18:03:00,Arrombamento,Av. Historiador Pereira da Costa,Suape,-8.322063646422164,-35.043226316933655,Tarde,Imprensa,4
+2025-03-25 01:17:00,Tráfico,Rua do Sol,Pontezinha,-8.263143383009453,-35.06135723557923,Noite,Monitoramento,3
+2025-06-23 06:49:00,Roubo,Rua Sete de Setembro,Ponte dos Carvalhos,-8.275661051695833,-35.06391454511559,Tarde,BO,5
+2025-05-03 21:51:00,Arrombamento,Av. Governador Agamenon Magalhães,Pontezinha,-8.271339250439162,-35.03089103705744,Noite,Imprensa,3
+2025-02-15 04:33:00,Roubo,Rua do Canal,Enseada dos Corais,-8.323378295397637,-35.00088151613857,Noite,Imprensa,4
+2025-04-08 04:32:00,Furto,Av. Tejucupapo,Ponte dos Carvalhos,-8.301364789419951,-35.05025631092536,Tarde,Relato anônimo,5
+2025-05-29 14:58:00,Assalto,Rua do Carmo,Ponte dos Carvalhos,-8.277985770069225,-35.00128406626428,Manhã,BO,2
+2025-05-02 22:23:00,Vandalismo,Rua do Forte,Pontezinha,-8.30839554547446,-35.028458003753805,Tarde,Monitoramento,5
+2025-04-30 00:47:00,Assalto,Rua da Praia,Enseada dos Corais,-8.272279587491735,-35.012672359818424,Manhã,Relato anônimo,2
+2025-05-01 04:13:00,Tráfico,Rua do Sol,Gaibu,-8.27858896111807,-35.039175695977086,Tarde,BO,4
+2025-02-16 15:48:00,Arrombamento,Rua do Rosário,Ponte dos Carvalhos,-8.303689755516217,-35.02784640292384,Madrugada,BO,2
+2025-06-12 03:58:00,Roubo,Rua do Carmo,Centro,-8.30980347529964,-35.103033762087364,Noite,BO,1
+2025-03-15 19:13:00,Furto,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.272086004896058,-35.00740162897284,Tarde,Relato anônimo,3
+2025-07-10 11:22:00,Roubo,Rua do Sol,Suape,-8.342073310888546,-35.05524326761775,Tarde,Relato anônimo,5
+2025-06-27 06:45:00,Assalto,Rua do Rosário,Centro,-8.26752114347487,-34.97856261325721,Tarde,Imprensa,2
+2025-03-09 06:58:00,Tráfico,Av. Governador Agamenon Magalhães,Centro,-8.282480157308115,-35.04820007353073,Madrugada,Imprensa,5
+2025-05-13 12:27:00,Roubo,Rua do Rosário,Enseada dos Corais,-8.28757241102762,-34.9956280895213,Tarde,Relato anônimo,4
+2025-06-11 03:33:00,Roubo,Rua da Praia,Ponte dos Carvalhos,-8.299149104478113,-35.049979800166255,Tarde,Monitoramento,3
+2025-03-05 10:31:00,Arrombamento,Av. Governador Agamenon Magalhães,Centro,-8.29506858805455,-35.05383321520647,Manhã,Monitoramento,3
+2025-04-10 17:26:00,Homicídio,Rua Sete de Setembro,Novo Horizonte,-8.27993324210013,-34.989383038538264,Noite,Monitoramento,2
+2025-03-29 00:43:00,Tráfico,Rua do Forte,Pontezinha,-8.2749230181721,-35.03630883755316,Madrugada,BO,4
+2025-03-20 12:25:00,Furto,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.290295281722887,-35.06907977021742,Manhã,Relato anônimo,1
+2025-04-04 19:54:00,Furto,Rua do Comércio,Pontezinha,-8.260922255571321,-35.03194592992532,Madrugada,BO,2
+2025-07-10 18:17:00,Violência doméstica,Rua do Forte,Suape,-8.287511997839765,-34.95017231080388,Madrugada,Imprensa,4
+2025-06-22 08:09:00,Assalto,Rua Monsenhor Fabrício,Novo Horizonte,-8.275531177290857,-35.04879477625238,Madrugada,BO,1
+2025-07-22 04:01:00,Furto,Rua do Forte,Gaibu,-8.293658939905137,-35.00128885727008,Manhã,BO,1
+2025-05-20 19:43:00,Assalto,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.280168239736556,-35.065956949457934,Noite,Relato anônimo,3
+2025-07-31 16:49:00,Assalto,Rua do Rosário,Ponte dos Carvalhos,-8.260019276635619,-35.04670360213848,Madrugada,Monitoramento,2
+2025-06-21 08:34:00,Furto,Rua do Forte,Novo Horizonte,-8.23616755559456,-35.00299879835713,Noite,BO,1
+2025-06-07 10:54:00,Vandalismo,Rua do Rosário,Charneca,-8.294183047391469,-34.99797459095662,Madrugada,Monitoramento,4
+2025-03-26 15:27:00,Roubo,Av. Tejucupapo,Suape,-8.281303612236814,-35.008680658121946,Tarde,Imprensa,4
+2025-07-30 17:43:00,Homicídio,Rua do Rosário,Novo Horizonte,-8.270881679567637,-35.051158916374774,Madrugada,Monitoramento,5
+2025-05-23 08:31:00,Tráfico,Rua do Carmo,Centro,-8.299088745807936,-35.004250979560474,Madrugada,Imprensa,3
+2025-03-16 11:22:00,Furto,Av. Historiador Pereira da Costa,Centro,-8.291369383302664,-35.04009121158105,Manhã,Imprensa,4
+2025-05-28 11:03:00,Roubo,Rua do Canal,Pontezinha,-8.306878064483733,-35.019410023360166,Tarde,Relato anônimo,2
+2025-05-01 03:21:00,Assalto,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.23143687701892,-35.05668832285636,Tarde,BO,5
+2025-07-07 16:57:00,Furto,Rua da Estação,Charneca,-8.282394513583181,-34.99469448611462,Madrugada,Imprensa,1
+2025-05-19 18:24:00,Arrombamento,Av. Historiador Pereira da Costa,Pontezinha,-8.284991034781143,-35.01869070509376,Noite,BO,4
+2025-06-19 16:51:00,Roubo,Rua do Comércio,Pontezinha,-8.309559838203672,-35.01929232256981,Noite,Relato anônimo,5
+2025-06-19 20:54:00,Furto,Rua Dr. João Leitão,Gaibu,-8.287678606625112,-35.00535675010801,Manhã,Relato anônimo,3
+2025-04-10 19:47:00,Furto,Rua Sete de Setembro,Charneca,-8.253315348710881,-34.96526090894954,Manhã,BO,5
+2025-06-01 06:22:00,Furto,Av. Presidente Kennedy,Novo Horizonte,-8.26850917066966,-35.021855092085445,Manhã,Imprensa,5
+2025-04-04 13:25:00,Violência doméstica,Rua Dr. João Leitão,Pontezinha,-8.278140392460566,-35.038829157320265,Noite,Monitoramento,5
+2025-07-09 15:13:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.274537903913457,-35.03738503525348,Madrugada,Imprensa,5
+2025-06-25 06:23:00,Violência doméstica,Rua Dr. João Leitão,Centro,-8.27878847559326,-34.9970600616098,Madrugada,Relato anônimo,2
+2025-05-28 10:55:00,Roubo,Rua Sete de Setembro,Charneca,-8.308163564131991,-35.00150303597177,Manhã,Relato anônimo,4
+2025-04-18 21:38:00,Furto,Rua Sete de Setembro,Enseada dos Corais,-8.250072123316503,-35.032951713174775,Tarde,Monitoramento,2
+2025-04-15 09:29:00,Roubo,Rua do Comércio,Centro,-8.336046372475215,-35.04519554967736,Madrugada,Monitoramento,4
+2025-03-24 08:08:00,Assalto,Rua da Matriz,Gaibu,-8.250575136335971,-35.03057170155747,Manhã,Imprensa,3
+2025-06-16 00:03:00,Assalto,Av. Tejucupapo,Centro,-8.307982555807373,-35.0426193730307,Manhã,Imprensa,5
+2025-05-16 21:42:00,Furto,Av. Presidente Kennedy,Charneca,-8.261984499337386,-35.01633166079497,Manhã,Monitoramento,2
+2025-06-25 21:53:00,Roubo,Rua do Carmo,Ponte dos Carvalhos,-8.288973302479242,-35.039170610295365,Noite,Monitoramento,1
+2025-05-07 18:47:00,Roubo,Rua do Rosário,Pontezinha,-8.292793953726095,-35.05306025461246,Madrugada,Relato anônimo,4
+2025-04-07 08:28:00,Roubo,Rua do Rosário,Enseada dos Corais,-8.242615607763263,-35.038058011730286,Madrugada,Imprensa,5
+2025-08-10 03:20:00,Roubo,Av. Governador Agamenon Magalhães,Pontezinha,-8.252571036979361,-34.99196709870194,Madrugada,Monitoramento,2
+2025-06-13 22:23:00,Vandalismo,Rua do Sol,Pontezinha,-8.2580422275463,-35.04079050781795,Noite,BO,5
+2025-04-17 17:24:00,Roubo,Rua da Matriz,Gaibu,-8.272906747741585,-35.03060489015977,Noite,Imprensa,1
+2025-05-22 00:58:00,Assalto,Rua Professor Luís Sobrinho,Novo Horizonte,-8.305592546518252,-35.02189101795696,Madrugada,Imprensa,3
+2025-04-06 05:58:00,Roubo,Rua Professor Luís Sobrinho,Suape,-8.312475994778994,-35.00030801528846,Madrugada,Imprensa,4
+2025-06-17 15:47:00,Violência doméstica,Av. Laura Machado,Ponte dos Carvalhos,-8.29461543243246,-35.02497100860318,Madrugada,Imprensa,4
+2025-08-09 08:32:00,Tráfico,Rua do Rosário,Enseada dos Corais,-8.275917803211346,-35.0364726243426,Manhã,Imprensa,4
+2025-06-08 22:01:00,Assalto,Av. Governador Agamenon Magalhães,Pontezinha,-8.268332654963118,-35.04187259141556,Manhã,Relato anônimo,4
+2025-05-25 06:40:00,Violência doméstica,Rua do Sol,Centro,-8.261217567563568,-35.06364949200617,Noite,Imprensa,5
+2025-06-24 22:49:00,Roubo,Av. Tejucupapo,Gaibu,-8.27984051051134,-34.981526775023546,Tarde,Monitoramento,3
+2025-03-28 21:37:00,Homicídio,Rua do Sol,Suape,-8.30800828311514,-35.04694362426312,Noite,Imprensa,2
+2025-05-23 12:53:00,Roubo,Rua do Canal,Enseada dos Corais,-8.270152303758527,-35.02551045545151,Tarde,BO,1
+2025-06-10 06:16:00,Vandalismo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.27423424751816,-35.01777032174631,Tarde,BO,4
+2025-03-06 11:10:00,Assalto,Av. Laura Machado,Enseada dos Corais,-8.267131963285955,-35.00225750395109,Manhã,BO,5
+2025-03-14 07:45:00,Furto,Rua da Estação,Novo Horizonte,-8.272754533576787,-35.036031441365466,Tarde,Relato anônimo,3
+2025-03-17 13:54:00,Furto,Rua do Forte,Charneca,-8.266185657469931,-34.98250295162762,Tarde,Relato anônimo,3
+2025-03-30 13:50:00,Arrombamento,Rua do Comércio,Charneca,-8.286315843659564,-35.054363232616765,Tarde,BO,3
+2025-04-16 11:37:00,Vandalismo,Rua Professor Luís Sobrinho,Novo Horizonte,-8.255322983267826,-35.03300952909884,Madrugada,BO,1
+2025-08-06 06:45:00,Homicídio,Rua da Praia,Charneca,-8.337316738650351,-35.00881445807124,Madrugada,Monitoramento,5
+2025-02-25 10:59:00,Furto,Rua do Rosário,Centro,-8.296383204648848,-35.0322633320576,Tarde,Monitoramento,3
+2025-04-17 16:39:00,Vandalismo,Rua da Matriz,Centro,-8.274700491735775,-35.025237508005524,Madrugada,Imprensa,4
+2025-07-10 05:16:00,Arrombamento,Rua do Sol,Centro,-8.265263704571524,-35.040887159264244,Tarde,Monitoramento,3
+2025-05-04 22:33:00,Tráfico,Rua do Sol,Ponte dos Carvalhos,-8.270172355045597,-35.0364886669396,Madrugada,Relato anônimo,3
+2025-06-19 08:47:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.264529737977812,-35.01461581289968,Noite,Monitoramento,3
+2025-06-24 10:27:00,Tráfico,Av. Laura Machado,Suape,-8.306385967551114,-35.002850447095625,Tarde,Imprensa,4
+2025-02-25 06:09:00,Arrombamento,Rua do Sol,Novo Horizonte,-8.29639908612785,-35.00979855504297,Manhã,Relato anônimo,2
+2025-06-11 13:07:00,Roubo,Av. Laura Machado,Enseada dos Corais,-8.273817817164966,-34.98404540808012,Madrugada,BO,4
+2025-06-09 15:07:00,Furto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.288586649559296,-35.038732919902955,Tarde,BO,3
+2025-03-27 23:32:00,Roubo,Rua Sete de Setembro,Enseada dos Corais,-8.283485490147193,-35.037579494570856,Noite,Relato anônimo,5
+2025-05-29 02:15:00,Vandalismo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.263001452451448,-35.070407765210916,Madrugada,BO,3
+2025-05-18 18:59:00,Roubo,Rua do Rosário,Charneca,-8.309342060478658,-35.05669507303948,Manhã,Imprensa,2
+2025-06-08 20:17:00,Roubo,Rua da Estação,Novo Horizonte,-8.25924231020066,-34.987234665685456,Manhã,Imprensa,1
+2025-07-07 04:13:00,Assalto,Rua da Estação,Pontezinha,-8.285611230463436,-35.034220543079755,Manhã,Imprensa,3
+2025-03-07 12:16:00,Violência doméstica,Av. Presidente Kennedy,Charneca,-8.28124869592217,-35.000953042434794,Tarde,Relato anônimo,4
+2025-05-22 12:18:00,Roubo,Rua do Comércio,Enseada dos Corais,-8.306183828354763,-35.02404077543163,Tarde,BO,3
+2025-08-06 19:08:00,Assalto,Rua Dr. João Leitão,Suape,-8.258620059255438,-35.0174726457515,Noite,BO,3
+2025-05-22 15:17:00,Assalto,Rua do Forte,Novo Horizonte,-8.27826045958503,-35.004973847685825,Madrugada,BO,4
+2025-07-23 13:05:00,Violência doméstica,Av. Tejucupapo,Charneca,-8.350580807324981,-35.01305311701173,Manhã,Imprensa,4
+2025-06-26 20:41:00,Arrombamento,Rua do Sol,Novo Horizonte,-8.299351892078185,-35.07576582242141,Manhã,Imprensa,4
+2025-03-22 04:43:00,Furto,Rua do Forte,Suape,-8.270219935011875,-34.995658536370925,Noite,Relato anônimo,5
+2025-02-23 16:06:00,Furto,Rua da Matriz,Ponte dos Carvalhos,-8.286436212865691,-35.006178136319924,Madrugada,Monitoramento,1
+2025-04-18 18:05:00,Homicídio,Av. Laura Machado,Pontezinha,-8.242693043550283,-34.9971271386604,Manhã,BO,4
+2025-02-23 02:26:00,Roubo,Av. Tejucupapo,Charneca,-8.242000886765714,-35.01144681272321,Noite,Imprensa,5
+2025-05-10 05:13:00,Arrombamento,Rua da Estação,Suape,-8.28111415902746,-35.07004914529743,Tarde,BO,5
+2025-06-28 00:00:00,Furto,Rua do Rosário,Charneca,-8.289151562203248,-35.05108116488291,Madrugada,BO,1
+2025-08-08 12:55:00,Roubo,Rua do Forte,Novo Horizonte,-8.228726432062555,-35.03439714531081,Madrugada,Imprensa,5
+2025-04-30 02:08:00,Violência doméstica,Rua do Canal,Charneca,-8.279919879830388,-35.01621286559899,Tarde,BO,2
+2025-02-18 06:30:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.281909938840688,-34.98762372398923,Tarde,Relato anônimo,4
+2025-03-06 09:49:00,Tráfico,Av. Governador Agamenon Magalhães,Gaibu,-8.29856623404336,-35.02513481361907,Madrugada,Relato anônimo,4
+2025-03-23 23:44:00,Furto,Rua do Rosário,Enseada dos Corais,-8.30156176464245,-35.063000562780516,Madrugada,Monitoramento,4
+2025-04-04 09:36:00,Roubo,Rua da Estação,Gaibu,-8.298294227272631,-35.03092591992621,Madrugada,BO,3
+2025-06-18 23:37:00,Roubo,Rua Dr. João Leitão,Charneca,-8.29373255561293,-35.04731052449685,Noite,BO,4
+2025-04-12 22:03:00,Furto,Rua do Carmo,Novo Horizonte,-8.318157936591795,-35.032077639315716,Manhã,Monitoramento,5
+2025-07-27 13:56:00,Furto,Av. Presidente Kennedy,Suape,-8.320618009350774,-35.01099860090776,Madrugada,BO,4
+2025-08-09 13:01:00,Assalto,Rua do Canal,Novo Horizonte,-8.280939006176636,-35.066438787486625,Tarde,Imprensa,2
+2025-06-21 07:37:00,Homicídio,Rua da Estação,Gaibu,-8.290730226926247,-35.04880391013977,Noite,Monitoramento,2
+2025-08-03 20:47:00,Tráfico,Rua Monsenhor Fabrício,Charneca,-8.27502063723952,-34.99648873884942,Noite,Monitoramento,2
+2025-08-01 15:08:00,Assalto,Rua Sete de Setembro,Ponte dos Carvalhos,-8.329879311741143,-35.02712434802132,Tarde,Relato anônimo,2
+2025-06-18 09:15:00,Assalto,Rua do Rosário,Charneca,-8.287003319889166,-35.01321649808874,Tarde,BO,1
+2025-08-04 05:11:00,Furto,Av. Laura Machado,Pontezinha,-8.277670084294057,-35.04879923329347,Manhã,BO,3
+2025-07-05 07:31:00,Furto,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.290976348391665,-35.04990064642009,Noite,Imprensa,3
+2025-03-22 22:55:00,Arrombamento,Av. Governador Agamenon Magalhães,Suape,-8.256099821535035,-35.0294672087832,Manhã,BO,4
+2025-07-18 19:50:00,Violência doméstica,Rua do Rosário,Ponte dos Carvalhos,-8.235470232856175,-35.03151652034536,Manhã,BO,5
+2025-05-15 05:46:00,Roubo,Rua do Rosário,Gaibu,-8.300710169172762,-35.06784285981532,Noite,Monitoramento,5
+2025-07-27 11:21:00,Assalto,Rua do Rosário,Enseada dos Corais,-8.328078491906398,-35.06960339857514,Tarde,BO,2
+2025-04-15 15:21:00,Furto,Rua Dr. João Leitão,Centro,-8.276321833724712,-35.017281874419254,Noite,Relato anônimo,1
+2025-07-23 21:15:00,Furto,Rua Dr. João Leitão,Pontezinha,-8.322529767550803,-35.0076240421481,Tarde,Monitoramento,2
+2025-05-27 14:54:00,Roubo,Rua Dr. João Leitão,Charneca,-8.295076526292085,-35.02633017470036,Noite,BO,4
+2025-03-05 10:20:00,Roubo,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.242694484293613,-35.00757901710336,Madrugada,Relato anônimo,4
+2025-07-09 01:40:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.289713266197646,-35.052279805635386,Noite,Monitoramento,4
+2025-05-03 11:00:00,Tráfico,Av. Governador Agamenon Magalhães,Suape,-8.336795385033232,-35.04797883298106,Noite,Relato anônimo,4
+2025-08-09 11:56:00,Homicídio,Rua do Comércio,Novo Horizonte,-8.288278255970692,-35.05467948817878,Madrugada,Relato anônimo,3
+2025-05-22 23:46:00,Roubo,Av. Governador Agamenon Magalhães,Pontezinha,-8.286281424177307,-35.02807870292603,Tarde,Imprensa,2
+2025-06-25 10:48:00,Roubo,Av. Governador Agamenon Magalhães,Suape,-8.288621399545201,-35.046250064520585,Tarde,BO,1
+2025-04-14 09:46:00,Tráfico,Av. Governador Agamenon Magalhães,Suape,-8.278783633200831,-35.018951483760766,Madrugada,BO,1
+2025-03-15 01:48:00,Tráfico,Av. Laura Machado,Pontezinha,-8.31025997693607,-34.99472669050635,Manhã,Monitoramento,3
+2025-05-09 07:51:00,Assalto,Av. Historiador Pereira da Costa,Novo Horizonte,-8.285464703307106,-35.02952875942638,Tarde,Imprensa,3
+2025-06-25 23:15:00,Furto,Rua do Sol,Charneca,-8.265294639418585,-35.024169596718416,Manhã,Imprensa,5
+2025-03-09 04:45:00,Assalto,Rua do Canal,Novo Horizonte,-8.259171584152169,-35.02282189586995,Madrugada,Monitoramento,1
+2025-06-13 06:28:00,Roubo,Rua Dr. João Leitão,Enseada dos Corais,-8.298310934366011,-35.020962411869846,Manhã,Imprensa,5
+2025-04-20 18:31:00,Furto,Av. Governador Agamenon Magalhães,Charneca,-8.311593155183017,-35.027286007355585,Madrugada,Monitoramento,4
+2025-03-20 16:08:00,Arrombamento,Rua Dr. João Leitão,Enseada dos Corais,-8.28383074976611,-35.03520292143182,Madrugada,Monitoramento,2
+2025-08-08 06:29:00,Vandalismo,Rua do Carmo,Ponte dos Carvalhos,-8.286213437785973,-35.07704622613744,Madrugada,BO,2
+2025-07-16 13:07:00,Vandalismo,Rua do Canal,Ponte dos Carvalhos,-8.296718122693523,-35.02767887747147,Manhã,Imprensa,5
+2025-03-14 11:19:00,Furto,Rua do Carmo,Enseada dos Corais,-8.279003590200064,-35.05569187852315,Noite,Imprensa,3
+2025-07-12 13:03:00,Homicídio,Rua do Sol,Enseada dos Corais,-8.251357303978383,-35.051654371205366,Noite,Imprensa,2
+2025-03-15 17:22:00,Roubo,Rua do Forte,Centro,-8.258763569986831,-35.01932014095321,Manhã,BO,4
+2025-05-09 12:30:00,Homicídio,Rua Sete de Setembro,Novo Horizonte,-8.299155682746095,-34.98561722768476,Tarde,Relato anônimo,5
+2025-03-22 23:20:00,Assalto,Rua da Estação,Novo Horizonte,-8.312840920793912,-35.00702114565975,Manhã,Monitoramento,4
+2025-06-30 01:42:00,Roubo,Rua Monsenhor Fabrício,Pontezinha,-8.257985442048925,-35.046765505226915,Madrugada,Imprensa,1
+2025-07-05 20:07:00,Tráfico,Av. Historiador Pereira da Costa,Suape,-8.248188367498392,-35.03625116286498,Manhã,Relato anônimo,5
+2025-06-13 16:57:00,Assalto,Rua da Matriz,Gaibu,-8.275782659268003,-35.02349195403072,Manhã,BO,5
+2025-04-05 07:53:00,Roubo,Av. Historiador Pereira da Costa,Suape,-8.286357718536763,-35.009729793171005,Madrugada,BO,5
+2025-06-17 00:21:00,Assalto,Rua Monsenhor Fabrício,Centro,-8.263162781986194,-35.073713299330954,Madrugada,Relato anônimo,4
+2025-05-20 08:05:00,Roubo,Rua do Carmo,Pontezinha,-8.250391493928046,-35.071562299700894,Manhã,BO,5
+2025-04-18 02:09:00,Roubo,Rua do Sol,Enseada dos Corais,-8.257186344891458,-35.00183237157931,Noite,Monitoramento,2
+2025-02-18 22:03:00,Roubo,Rua da Praia,Enseada dos Corais,-8.31027416075538,-35.040270357198864,Noite,Monitoramento,1
+2025-04-19 12:52:00,Furto,Rua Dr. João Leitão,Pontezinha,-8.310642616712148,-35.03537302575722,Manhã,BO,2
+2025-06-22 16:24:00,Roubo,Rua Professor Luís Sobrinho,Novo Horizonte,-8.290700857104643,-35.01050848669327,Manhã,Imprensa,1
+2025-02-28 15:01:00,Furto,Av. Governador Agamenon Magalhães,Charneca,-8.25024228134701,-34.995107904730254,Madrugada,Relato anônimo,1
+2025-07-04 20:50:00,Furto,Rua do Rosário,Gaibu,-8.297054200664457,-35.035230546843614,Tarde,Imprensa,5
+2025-03-20 11:34:00,Furto,Av. Presidente Kennedy,Gaibu,-8.325085954805523,-35.0501467516624,Tarde,Relato anônimo,5
+2025-02-22 00:52:00,Vandalismo,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.258878709172564,-34.98961042941129,Madrugada,Imprensa,2
+2025-07-15 08:53:00,Roubo,Rua do Forte,Suape,-8.313858721796997,-35.044811606478824,Madrugada,Imprensa,2
+2025-02-23 05:47:00,Assalto,Rua do Carmo,Suape,-8.283660143923973,-35.02299597102951,Manhã,Imprensa,1
+2025-07-04 08:56:00,Furto,Rua do Rosário,Enseada dos Corais,-8.303240087998041,-35.0193984738884,Madrugada,Relato anônimo,5
+2025-07-24 08:48:00,Assalto,Rua da Praia,Pontezinha,-8.294845983676773,-35.03036130677196,Madrugada,Imprensa,2
+2025-04-06 14:38:00,Assalto,Rua da Praia,Pontezinha,-8.269342893799907,-35.02983944325473,Noite,BO,2
+2025-02-13 00:43:00,Assalto,Av. Historiador Pereira da Costa,Novo Horizonte,-8.293909647263163,-35.03274024509815,Tarde,Monitoramento,5
+2025-06-29 02:50:00,Tráfico,Rua do Forte,Charneca,-8.285209073980132,-35.03925027574705,Manhã,BO,4
+2025-07-15 11:24:00,Arrombamento,Rua do Canal,Charneca,-8.289469901566678,-34.99003382073738,Tarde,BO,1
+2025-02-14 07:47:00,Homicídio,Rua do Comércio,Novo Horizonte,-8.268977013801468,-35.03738700795073,Manhã,Imprensa,3
+2025-04-12 15:23:00,Roubo,Rua Sete de Setembro,Gaibu,-8.265576139887232,-35.0383454872439,Manhã,Imprensa,4
+2025-04-03 20:25:00,Tráfico,Rua do Comércio,Centro,-8.253671884060333,-35.02075894519505,Manhã,Imprensa,5
+2025-07-30 23:36:00,Assalto,Av. Tejucupapo,Gaibu,-8.285682553600106,-35.01880707685474,Tarde,BO,5
+2025-04-19 18:54:00,Roubo,Av. Presidente Kennedy,Enseada dos Corais,-8.322271903801711,-35.05816918672274,Tarde,Imprensa,2
+2025-08-05 17:56:00,Tráfico,Av. Historiador Pereira da Costa,Suape,-8.312848125159976,-35.026426422630905,Madrugada,BO,4
+2025-06-02 13:17:00,Assalto,Rua da Matriz,Pontezinha,-8.239687125012873,-34.97421749634518,Manhã,Monitoramento,4
+2025-02-24 08:58:00,Furto,Rua da Matriz,Gaibu,-8.267048722463981,-35.01747888812639,Madrugada,Monitoramento,3
+2025-03-04 18:51:00,Roubo,Rua do Comércio,Pontezinha,-8.328026443353817,-35.04356684499335,Manhã,Relato anônimo,4
+2025-03-26 10:19:00,Vandalismo,Rua Professor Luís Sobrinho,Gaibu,-8.302694593797705,-35.045521189956276,Manhã,BO,1
+2025-04-17 07:06:00,Homicídio,Av. Historiador Pereira da Costa,Pontezinha,-8.28720359546462,-35.04180226444243,Madrugada,Relato anônimo,3
+2025-03-02 19:39:00,Violência doméstica,Rua da Praia,Gaibu,-8.332482495259395,-35.011302243597065,Madrugada,BO,4
+2025-02-20 12:20:00,Assalto,Av. Presidente Kennedy,Centro,-8.309818575643495,-35.024018828397224,Manhã,Relato anônimo,1
+2025-04-30 19:40:00,Tráfico,Rua da Estação,Centro,-8.231147933256251,-35.052984614789665,Madrugada,BO,1
+2025-04-28 12:25:00,Arrombamento,Av. Governador Agamenon Magalhães,Centro,-8.346257188068657,-35.037150105547006,Manhã,Monitoramento,2
+2025-05-21 14:50:00,Tráfico,Av. Historiador Pereira da Costa,Novo Horizonte,-8.255476009125035,-34.98104131364449,Madrugada,BO,3
+2025-06-24 10:37:00,Assalto,Av. Historiador Pereira da Costa,Novo Horizonte,-8.31373873986131,-35.017582519419086,Tarde,BO,1
+2025-07-08 04:40:00,Roubo,Av. Presidente Kennedy,Gaibu,-8.294632761419502,-35.03264870885761,Noite,Imprensa,4
+2025-04-15 04:51:00,Homicídio,Rua da Estação,Enseada dos Corais,-8.216891416324573,-35.06757425820988,Manhã,BO,2
+2025-05-02 18:56:00,Furto,Rua Dr. João Leitão,Pontezinha,-8.276656508462635,-35.018307670705866,Tarde,Relato anônimo,4
+2025-05-17 00:33:00,Furto,Rua da Praia,Suape,-8.255855341876515,-35.02755042116323,Tarde,BO,2
+2025-05-31 11:12:00,Assalto,Av. Governador Agamenon Magalhães,Centro,-8.275298736512397,-35.03979121418555,Tarde,Relato anônimo,1
+2025-07-15 22:21:00,Furto,Rua do Forte,Novo Horizonte,-8.276271826468871,-35.038579806887434,Noite,Imprensa,4
+2025-02-22 15:14:00,Furto,Rua do Rosário,Novo Horizonte,-8.267460702753597,-35.039240258401094,Manhã,Relato anônimo,2
+2025-06-15 23:49:00,Homicídio,Rua do Comércio,Gaibu,-8.273572490152445,-35.03073157034213,Noite,Monitoramento,2
+2025-02-14 02:22:00,Furto,Av. Historiador Pereira da Costa,Pontezinha,-8.254848743730696,-35.031284843089715,Manhã,BO,2
+2025-02-23 00:12:00,Furto,Rua do Comércio,Pontezinha,-8.32732581170517,-34.99845196248215,Tarde,Imprensa,2
+2025-05-09 17:15:00,Roubo,Av. Laura Machado,Enseada dos Corais,-8.305643307521565,-35.04634415846622,Tarde,Relato anônimo,1
+2025-02-17 21:08:00,Roubo,Av. Laura Machado,Ponte dos Carvalhos,-8.297891532351088,-34.99563904767073,Madrugada,BO,3
+2025-04-14 11:51:00,Vandalismo,Rua Sete de Setembro,Novo Horizonte,-8.336391855349467,-34.9515562866585,Noite,Relato anônimo,5
+2025-03-14 04:56:00,Vandalismo,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.256598579773348,-35.02441902714677,Tarde,Relato anônimo,2
+2025-07-15 13:40:00,Assalto,Rua do Canal,Pontezinha,-8.284372350015406,-35.02286114812856,Tarde,BO,5
+2025-03-22 10:15:00,Assalto,Av. Governador Agamenon Magalhães,Suape,-8.269971939290516,-35.01386961035125,Manhã,Imprensa,2
+2025-03-04 15:50:00,Tráfico,Rua do Forte,Gaibu,-8.269109888349913,-35.02776048296862,Manhã,Relato anônimo,5
+2025-06-19 16:29:00,Furto,Rua do Carmo,Pontezinha,-8.287933460507682,-35.033781832091336,Tarde,Imprensa,3
+2025-06-13 08:37:00,Assalto,Rua do Forte,Novo Horizonte,-8.287872707008816,-35.001655747578326,Madrugada,BO,2
+2025-04-13 12:13:00,Roubo,Rua do Comércio,Novo Horizonte,-8.268161081942978,-35.10350971586661,Noite,Monitoramento,4
+2025-07-02 02:08:00,Assalto,Rua do Canal,Suape,-8.266602480586755,-35.02513159513203,Manhã,Imprensa,4
+2025-06-11 16:39:00,Assalto,Rua Professor Luís Sobrinho,Centro,-8.283467718911147,-35.039712961327226,Noite,Monitoramento,4
+2025-06-19 10:17:00,Homicídio,Rua Dr. João Leitão,Pontezinha,-8.254897182000349,-35.006311838446926,Madrugada,BO,2
+2025-05-14 02:18:00,Homicídio,Av. Laura Machado,Ponte dos Carvalhos,-8.30232194169559,-35.01982369282189,Manhã,Imprensa,2
+2025-02-21 17:12:00,Roubo,Av. Presidente Kennedy,Pontezinha,-8.307291418363532,-35.06449045411973,Noite,Relato anônimo,3
+2025-07-16 04:54:00,Furto,Av. Laura Machado,Gaibu,-8.298667930614748,-35.008440163190436,Noite,BO,3
+2025-05-26 18:48:00,Furto,Rua do Canal,Charneca,-8.259171873865597,-35.01717286449757,Manhã,Monitoramento,5
+2025-04-11 07:46:00,Vandalismo,Rua do Sol,Charneca,-8.264872605328799,-35.017095542822126,Tarde,Monitoramento,2
+2025-06-10 10:50:00,Assalto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.299037039880574,-35.019201936383155,Manhã,Imprensa,2
+2025-06-04 14:54:00,Furto,Rua Dr. João Leitão,Gaibu,-8.262989761869308,-35.01114271675466,Manhã,Imprensa,2
+2025-02-14 15:51:00,Assalto,Rua do Sol,Suape,-8.253277165713133,-35.01229240381998,Noite,Imprensa,2
+2025-05-06 18:01:00,Furto,Rua Monsenhor Fabrício,Suape,-8.27421379481146,-35.00324624404209,Manhã,Relato anônimo,2
+2025-05-20 06:25:00,Vandalismo,Rua da Praia,Charneca,-8.283663031481225,-35.05204686628069,Manhã,Monitoramento,2
+2025-07-25 09:05:00,Homicídio,Rua da Praia,Novo Horizonte,-8.287076674098593,-35.048622566120166,Tarde,BO,5
+2025-03-31 06:04:00,Roubo,Rua do Forte,Centro,-8.29987945687436,-35.03361296676789,Madrugada,Imprensa,2
+2025-06-08 01:23:00,Roubo,Rua do Carmo,Ponte dos Carvalhos,-8.302810498024998,-35.03769903824098,Manhã,Relato anônimo,3
+2025-03-24 03:08:00,Tráfico,Rua Dr. João Leitão,Charneca,-8.330340366673845,-35.024667657315675,Madrugada,Monitoramento,1
+2025-04-05 09:27:00,Furto,Rua do Comércio,Enseada dos Corais,-8.282969863115945,-35.05042721577671,Madrugada,Relato anônimo,5
+2025-06-20 22:43:00,Assalto,Rua Sete de Setembro,Gaibu,-8.266518858289189,-35.00656074655934,Madrugada,Imprensa,2
+2025-02-28 12:38:00,Roubo,Rua do Sol,Novo Horizonte,-8.323188996609224,-35.04906811946416,Tarde,Imprensa,5
+2025-07-09 01:47:00,Tráfico,Rua da Estação,Novo Horizonte,-8.302228558744682,-35.05349757752772,Manhã,Imprensa,4
+2025-07-18 05:26:00,Furto,Rua Sete de Setembro,Charneca,-8.262263128951705,-35.03484565346932,Tarde,Relato anônimo,5
+2025-07-30 05:44:00,Arrombamento,Rua da Estação,Charneca,-8.289612871032764,-35.08009655911017,Manhã,Monitoramento,1
+2025-07-22 17:18:00,Roubo,Av. Tejucupapo,Suape,-8.267114549244768,-35.060981459871336,Manhã,Relato anônimo,4
+2025-05-17 02:48:00,Furto,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.281501684243342,-35.02306557655105,Manhã,Imprensa,4
+2025-06-21 01:29:00,Homicídio,Av. Laura Machado,Gaibu,-8.248983535104033,-35.06272050997798,Manhã,BO,4
+2025-05-24 01:00:00,Furto,Rua Monsenhor Fabrício,Gaibu,-8.35848780389552,-35.025403761381156,Noite,BO,2
+2025-06-10 02:05:00,Furto,Rua da Estação,Novo Horizonte,-8.237987220462228,-34.99902634117652,Tarde,Monitoramento,2
+2025-03-27 00:38:00,Homicídio,Av. Laura Machado,Enseada dos Corais,-8.277758514618133,-35.0422909046408,Manhã,Relato anônimo,3
+2025-03-03 21:48:00,Roubo,Rua Monsenhor Fabrício,Enseada dos Corais,-8.262821935084066,-35.05433865499261,Manhã,Imprensa,2
+2025-02-20 21:34:00,Homicídio,Av. Tejucupapo,Gaibu,-8.271091055766094,-35.017363246020835,Tarde,Monitoramento,1
+2025-05-22 22:19:00,Violência doméstica,Rua do Carmo,Ponte dos Carvalhos,-8.256494752312527,-34.96100849902722,Madrugada,BO,5
+2025-04-16 11:58:00,Roubo,Rua Monsenhor Fabrício,Gaibu,-8.27318960082053,-35.042724090642686,Tarde,Relato anônimo,1
+2025-05-09 06:43:00,Roubo,Av. Historiador Pereira da Costa,Centro,-8.2836393578048,-35.07422689762223,Manhã,Relato anônimo,1
+2025-02-23 13:32:00,Violência doméstica,Av. Tejucupapo,Enseada dos Corais,-8.300367828277226,-35.04023206095283,Manhã,Imprensa,3
+2025-06-30 12:27:00,Assalto,Rua do Comércio,Gaibu,-8.296102209948364,-35.02619112819916,Manhã,Relato anônimo,2
+2025-02-15 12:41:00,Roubo,Rua da Praia,Enseada dos Corais,-8.303560498309555,-35.001974233316886,Noite,BO,4
+2025-07-30 08:41:00,Roubo,Rua Professor Luís Sobrinho,Ponte dos Carvalhos,-8.282994823377045,-35.03023250802847,Noite,BO,1
+2025-07-15 15:06:00,Tráfico,Rua Dr. João Leitão,Suape,-8.291197367912822,-35.02612023290353,Tarde,Imprensa,1
+2025-05-08 05:40:00,Assalto,Rua Monsenhor Fabrício,Enseada dos Corais,-8.262372543383309,-35.05167825539277,Noite,Monitoramento,1
+2025-06-22 20:47:00,Furto,Rua da Estação,Charneca,-8.299452912226881,-35.03759315071942,Tarde,BO,2
+2025-04-13 23:27:00,Roubo,Rua do Rosário,Suape,-8.31664677308683,-35.05048144649304,Tarde,BO,1
+2025-04-04 04:24:00,Roubo,Rua do Forte,Suape,-8.294905521838617,-35.00814027048218,Tarde,BO,2
+2025-03-18 08:20:00,Vandalismo,Rua da Estação,Pontezinha,-8.276435966774951,-35.02516025221581,Manhã,Monitoramento,3
+2025-05-10 07:13:00,Arrombamento,Rua Professor Luís Sobrinho,Pontezinha,-8.2617275509458,-35.033434294709984,Manhã,Relato anônimo,2
+2025-03-30 14:40:00,Assalto,Rua Monsenhor Fabrício,Pontezinha,-8.273238378751778,-35.032580543823315,Manhã,BO,4
+2025-07-24 04:13:00,Roubo,Rua do Comércio,Centro,-8.27636594126501,-35.04456896644029,Tarde,BO,2
+2025-06-21 02:27:00,Assalto,Rua do Comércio,Gaibu,-8.34397042895691,-35.03335697905466,Madrugada,Imprensa,2
+2025-03-29 19:15:00,Arrombamento,Rua Professor Luís Sobrinho,Charneca,-8.247431296597501,-35.00684461494396,Noite,Imprensa,5
+2025-06-15 02:23:00,Homicídio,Rua do Comércio,Suape,-8.25886506288522,-34.99909673195484,Madrugada,Monitoramento,2
+2025-03-23 15:01:00,Homicídio,Rua Dr. João Leitão,Charneca,-8.280783560225963,-35.02506710731486,Madrugada,Monitoramento,1
+2025-07-03 23:11:00,Arrombamento,Rua Sete de Setembro,Enseada dos Corais,-8.298441297385859,-35.03790182140068,Noite,Monitoramento,4
+2025-07-05 19:30:00,Furto,Rua Sete de Setembro,Charneca,-8.267605721255721,-34.99990288907078,Manhã,Imprensa,2
+2025-04-01 00:00:00,Arrombamento,Rua do Comércio,Enseada dos Corais,-8.286486156892025,-35.04125473162129,Noite,Monitoramento,4
+2025-05-21 15:19:00,Vandalismo,Rua Monsenhor Fabrício,Pontezinha,-8.282986801028585,-35.01496983127677,Manhã,Monitoramento,1
+2025-07-06 05:12:00,Vandalismo,Rua do Rosário,Charneca,-8.319096370403338,-35.08740452382843,Madrugada,Imprensa,3
+2025-08-09 01:41:00,Assalto,Rua do Forte,Pontezinha,-8.296763421237289,-35.06051781064785,Madrugada,Monitoramento,2
+2025-07-23 22:43:00,Furto,Rua da Matriz,Pontezinha,-8.295703504941182,-35.03369450797044,Manhã,Relato anônimo,3
+2025-04-16 19:37:00,Assalto,Rua do Sol,Suape,-8.294331210225575,-34.99368831163823,Tarde,BO,1
+2025-07-12 02:33:00,Violência doméstica,Rua Monsenhor Fabrício,Charneca,-8.274831380884942,-35.02248814100973,Tarde,Monitoramento,2
+2025-06-20 17:42:00,Violência doméstica,Av. Laura Machado,Suape,-8.267444821398914,-35.05847082794452,Madrugada,Imprensa,4
+2025-07-24 18:49:00,Arrombamento,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.257022205314493,-35.03189410716339,Noite,Relato anônimo,3
+2025-02-13 05:52:00,Arrombamento,Rua Monsenhor Fabrício,Suape,-8.266237984568969,-35.056796430826004,Madrugada,BO,1
+2025-07-29 09:46:00,Roubo,Rua Dr. João Leitão,Charneca,-8.3218439691504,-35.009552758549376,Madrugada,Relato anônimo,2
+2025-06-16 05:32:00,Furto,Rua do Sol,Gaibu,-8.273589761847562,-35.052551288858936,Manhã,Monitoramento,5
+2025-02-27 23:11:00,Violência doméstica,Av. Tejucupapo,Gaibu,-8.304741577031868,-35.001864130389635,Tarde,Imprensa,4
+2025-03-04 09:05:00,Homicídio,Rua do Rosário,Enseada dos Corais,-8.312735297321682,-34.9889331761686,Madrugada,BO,3
+2025-06-14 15:43:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.305515518366196,-35.01404020185979,Manhã,BO,1
+2025-03-08 06:33:00,Furto,Av. Historiador Pereira da Costa,Centro,-8.291215461893724,-35.01492031422294,Manhã,Monitoramento,5
+2025-06-13 10:38:00,Assalto,Av. Laura Machado,Novo Horizonte,-8.296602850052855,-35.03406982265181,Madrugada,Imprensa,3
+2025-04-14 11:42:00,Arrombamento,Rua da Praia,Pontezinha,-8.281977020615107,-35.05505468639454,Madrugada,Monitoramento,5
+2025-03-09 00:29:00,Roubo,Rua do Canal,Pontezinha,-8.264479391364496,-35.04283033916179,Madrugada,Relato anônimo,1
+2025-08-10 07:23:00,Assalto,Rua do Carmo,Suape,-8.288714997883499,-35.05485873436521,Madrugada,Monitoramento,5
+2025-07-25 10:01:00,Furto,Rua do Comércio,Centro,-8.347058341469882,-35.034775694065004,Noite,BO,3
+2025-05-25 23:39:00,Arrombamento,Rua Professor Luís Sobrinho,Novo Horizonte,-8.222684614459677,-35.01038489280255,Manhã,Imprensa,4
+2025-05-21 09:38:00,Vandalismo,Rua do Forte,Ponte dos Carvalhos,-8.28348150949336,-35.03657227073021,Tarde,Relato anônimo,5
+2025-03-16 15:50:00,Tráfico,Rua do Carmo,Centro,-8.282438352679698,-35.01632202212062,Manhã,Imprensa,5
+2025-06-06 03:30:00,Vandalismo,Rua da Estação,Enseada dos Corais,-8.31252032038272,-35.00214195763328,Tarde,Relato anônimo,2
+2025-06-03 22:01:00,Roubo,Av. Presidente Kennedy,Ponte dos Carvalhos,-8.265115467113969,-35.0120453568573,Tarde,Imprensa,4
+2025-08-01 15:57:00,Arrombamento,Rua Professor Luís Sobrinho,Suape,-8.272038106529756,-35.029509583557655,Manhã,Relato anônimo,5
+2025-08-08 10:55:00,Assalto,Rua do Forte,Ponte dos Carvalhos,-8.26617846910083,-35.015204646656464,Tarde,BO,3
+2025-04-12 07:16:00,Furto,Rua Monsenhor Fabrício,Charneca,-8.291851017773524,-35.044340044322425,Manhã,Imprensa,1
+2025-03-13 18:23:00,Roubo,Rua da Praia,Gaibu,-8.28045359261845,-34.99127449621262,Tarde,Imprensa,4
+2025-02-27 18:34:00,Assalto,Av. Historiador Pereira da Costa,Suape,-8.313977676891348,-35.066688131643815,Tarde,Monitoramento,4
+2025-06-25 21:38:00,Furto,Rua do Canal,Enseada dos Corais,-8.278880978969086,-35.0287278074536,Tarde,BO,4
+2025-03-21 09:53:00,Roubo,Rua da Estação,Pontezinha,-8.27866645839074,-35.02390117005229,Tarde,Monitoramento,4
+2025-08-01 22:02:00,Roubo,Rua Sete de Setembro,Enseada dos Corais,-8.28858005636587,-34.99275341403495,Noite,Imprensa,5
+2025-07-08 15:40:00,Vandalismo,Rua do Rosário,Suape,-8.323022599461913,-35.05071242561951,Tarde,Monitoramento,3
+2025-05-08 04:52:00,Arrombamento,Rua Monsenhor Fabrício,Centro,-8.285581369003726,-35.07107972027885,Tarde,Relato anônimo,1
+2025-05-23 09:52:00,Vandalismo,Av. Tejucupapo,Novo Horizonte,-8.287396360110801,-34.9884632458568,Tarde,BO,5
+2025-05-12 12:25:00,Furto,Rua Dr. João Leitão,Novo Horizonte,-8.2824778377926,-35.02423247735703,Manhã,Imprensa,3
+2025-03-08 04:20:00,Arrombamento,Rua do Comércio,Charneca,-8.314504119129314,-35.04540903520099,Manhã,Imprensa,4
+2025-08-09 15:18:00,Assalto,Rua do Sol,Novo Horizonte,-8.292379909508098,-35.03794287741891,Tarde,Relato anônimo,2
+2025-05-15 23:54:00,Violência doméstica,Rua do Comércio,Centro,-8.250958905124905,-35.01605772348187,Manhã,Relato anônimo,4
+2025-02-26 03:22:00,Vandalismo,Rua Dr. João Leitão,Enseada dos Corais,-8.310786448923425,-35.0238373805392,Madrugada,Relato anônimo,1
+2025-07-13 13:09:00,Roubo,Rua do Carmo,Pontezinha,-8.27054445628758,-35.00149627403697,Madrugada,Relato anônimo,1
+2025-04-30 22:38:00,Roubo,Rua Monsenhor Fabrício,Novo Horizonte,-8.24348648283579,-35.055377354795695,Tarde,Monitoramento,1
+2025-07-23 20:28:00,Violência doméstica,Rua Monsenhor Fabrício,Suape,-8.303271437780259,-35.06143944647287,Noite,BO,1
+2025-07-26 21:58:00,Roubo,Rua do Rosário,Novo Horizonte,-8.288850496477673,-35.018341040638845,Tarde,BO,5
+2025-08-08 23:06:00,Assalto,Rua do Forte,Suape,-8.258316637085272,-35.03189877559107,Tarde,Monitoramento,4
+2025-07-08 04:06:00,Vandalismo,Rua Dr. João Leitão,Suape,-8.29099618808137,-35.026206050193785,Noite,BO,5
+2025-07-04 17:50:00,Roubo,Av. Historiador Pereira da Costa,Charneca,-8.30387857254075,-34.97776153195763,Madrugada,BO,5
+2025-04-06 21:57:00,Violência doméstica,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.32319152567795,-35.02538148552761,Manhã,Relato anônimo,5
+2025-05-03 03:02:00,Arrombamento,Av. Historiador Pereira da Costa,Novo Horizonte,-8.232409844519259,-35.029830003886,Tarde,Relato anônimo,2
+2025-03-05 03:32:00,Roubo,Av. Laura Machado,Centro,-8.287750975875037,-35.03893613557026,Noite,Imprensa,5
+2025-04-29 01:33:00,Roubo,Av. Historiador Pereira da Costa,Gaibu,-8.287509792044059,-34.99567878813309,Noite,Monitoramento,2
+2025-07-17 17:32:00,Assalto,Rua da Praia,Pontezinha,-8.338296547783237,-34.991664157467596,Tarde,BO,1
+2025-04-29 06:08:00,Roubo,Rua do Comércio,Enseada dos Corais,-8.318598928811253,-35.03666630823086,Tarde,Imprensa,3
+2025-07-02 08:16:00,Roubo,Rua Dr. João Leitão,Ponte dos Carvalhos,-8.293731110507466,-35.015286168255734,Madrugada,Relato anônimo,4
+2025-08-08 04:34:00,Homicídio,Av. Laura Machado,Charneca,-8.322953108797094,-35.018445683347956,Tarde,BO,3
+2025-07-06 21:41:00,Vandalismo,Rua do Comércio,Pontezinha,-8.232392259417828,-35.064079350114824,Tarde,Monitoramento,2
+2025-02-18 19:15:00,Furto,Rua Dr. João Leitão,Charneca,-8.27825734580974,-35.046549554444915,Manhã,Imprensa,1
+2025-02-28 10:40:00,Assalto,Av. Governador Agamenon Magalhães,Charneca,-8.272352819845173,-35.02952130556461,Manhã,Imprensa,3
+2025-04-23 00:06:00,Violência doméstica,Rua do Sol,Gaibu,-8.299037172726107,-35.017803192878226,Madrugada,Relato anônimo,4
+2025-06-26 23:56:00,Vandalismo,Rua do Rosário,Enseada dos Corais,-8.23789129725533,-35.03477259479318,Noite,Monitoramento,1
+2025-07-17 03:57:00,Assalto,Rua Sete de Setembro,Suape,-8.265006051446296,-35.06233182394678,Manhã,Relato anônimo,3
+2025-05-11 23:43:00,Vandalismo,Rua Monsenhor Fabrício,Enseada dos Corais,-8.30691090942045,-35.018189843052994,Madrugada,Monitoramento,5
+2025-07-30 04:09:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.2458970992866,-35.02110966628036,Madrugada,Imprensa,1
+2025-08-04 19:26:00,Tráfico,Rua do Canal,Gaibu,-8.290826450763078,-35.030017714864414,Madrugada,Relato anônimo,4
+2025-04-23 13:33:00,Vandalismo,Rua da Estação,Suape,-8.314260193349243,-35.014887116841116,Tarde,Imprensa,1
+2025-03-07 20:05:00,Vandalismo,Rua Dr. João Leitão,Pontezinha,-8.260941673441915,-35.041302258320826,Manhã,Relato anônimo,1
+2025-04-26 17:59:00,Roubo,Rua da Matriz,Ponte dos Carvalhos,-8.294751053693988,-35.0233530442587,Madrugada,BO,4
+2025-06-19 16:43:00,Arrombamento,Rua do Sol,Novo Horizonte,-8.293917993401015,-35.031653315365645,Manhã,Monitoramento,1
+2025-08-10 17:47:00,Assalto,Av. Historiador Pereira da Costa,Charneca,-8.230506955270837,-35.03617564251865,Noite,Relato anônimo,5
+2025-03-27 21:59:00,Arrombamento,Rua da Matriz,Novo Horizonte,-8.29195850380053,-35.04618854514088,Tarde,Relato anônimo,1
+2025-02-25 13:31:00,Furto,Rua do Sol,Pontezinha,-8.264395200712501,-35.034530604330456,Madrugada,Relato anônimo,3
+2025-06-30 03:18:00,Vandalismo,Rua da Praia,Gaibu,-8.299234325958036,-34.996967399193174,Noite,Monitoramento,3
+2025-04-08 09:59:00,Furto,Av. Historiador Pereira da Costa,Charneca,-8.247509924887158,-35.045010589143466,Manhã,Monitoramento,5
+2025-02-13 19:29:00,Tráfico,Rua da Matriz,Pontezinha,-8.329663498784015,-35.00481215775408,Noite,Imprensa,3
+2025-05-25 11:00:00,Roubo,Rua do Canal,Enseada dos Corais,-8.300115745644,-35.01023436002093,Manhã,Monitoramento,4
+2025-05-28 03:58:00,Roubo,Rua do Carmo,Enseada dos Corais,-8.332252595442796,-35.00768506654252,Madrugada,BO,2
+2025-06-12 12:23:00,Arrombamento,Av. Laura Machado,Gaibu,-8.313279298232018,-35.01173089702334,Noite,Imprensa,4
+2025-03-11 14:42:00,Tráfico,Av. Governador Agamenon Magalhães,Suape,-8.28264317330409,-35.05384848548492,Madrugada,Relato anônimo,2
+2025-05-14 22:12:00,Furto,Rua Dr. João Leitão,Centro,-8.29317590782317,-35.01284203857608,Manhã,Relato anônimo,3
+2025-05-07 01:10:00,Roubo,Rua Monsenhor Fabrício,Charneca,-8.280352638672118,-35.01538967548819,Tarde,Monitoramento,3
+2025-08-05 22:08:00,Roubo,Rua do Forte,Novo Horizonte,-8.233588985387112,-35.06910604029278,Noite,Monitoramento,5
+2025-03-12 03:50:00,Arrombamento,Rua Monsenhor Fabrício,Enseada dos Corais,-8.242569685625783,-35.02739110156192,Manhã,Relato anônimo,2
+2025-02-25 21:53:00,Furto,Av. Historiador Pereira da Costa,Gaibu,-8.305469601208078,-35.06325784064347,Noite,Monitoramento,5
+2025-04-27 09:31:00,Arrombamento,Rua Dr. João Leitão,Novo Horizonte,-8.287728009769426,-35.00695874720189,Manhã,Monitoramento,2
+2025-04-16 08:49:00,Assalto,Rua do Carmo,Enseada dos Corais,-8.286188728009439,-34.992221126743814,Manhã,Imprensa,2
+2025-06-13 22:50:00,Assalto,Rua Dr. João Leitão,Gaibu,-8.319279392251289,-35.030302223696154,Manhã,Relato anônimo,2
+2025-03-14 04:25:00,Vandalismo,Rua do Sol,Gaibu,-8.314309836110327,-35.02090920293438,Manhã,Imprensa,2
+2025-07-19 06:05:00,Vandalismo,Rua Dr. João Leitão,Centro,-8.260827815247566,-35.04051904484203,Manhã,Monitoramento,4
+2025-05-09 13:30:00,Assalto,Rua Professor Luís Sobrinho,Gaibu,-8.348105346415679,-35.02502629633009,Manhã,Monitoramento,1
+2025-04-24 11:45:00,Furto,Av. Laura Machado,Pontezinha,-8.272081536206661,-35.019892631125956,Madrugada,Relato anônimo,3
+2025-02-12 01:42:00,Tráfico,Av. Tejucupapo,Centro,-8.252105445204446,-35.056776341991224,Noite,Relato anônimo,3
+2025-03-31 08:31:00,Homicídio,Rua do Rosário,Charneca,-8.265994597363738,-35.000187312188054,Noite,Imprensa,3
+2025-05-07 11:47:00,Roubo,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.327464689600163,-35.022008704352025,Noite,Imprensa,2
+2025-03-06 03:08:00,Assalto,Rua do Comércio,Charneca,-8.29560449577519,-35.03203806682754,Manhã,BO,5
+2025-06-06 03:04:00,Vandalismo,Rua do Comércio,Gaibu,-8.27430808791154,-35.04218071410284,Noite,Imprensa,4
+2025-02-23 04:12:00,Vandalismo,Rua do Comércio,Enseada dos Corais,-8.29989270197904,-35.0291461895628,Madrugada,Imprensa,5
+2025-07-23 22:07:00,Vandalismo,Rua do Canal,Novo Horizonte,-8.31018114847157,-35.05714562822213,Madrugada,BO,4
+2025-03-26 19:17:00,Furto,Rua do Carmo,Centro,-8.266015667926087,-35.058719850878965,Tarde,Imprensa,1
+2025-05-24 15:43:00,Vandalismo,Rua da Matriz,Gaibu,-8.26634218747727,-35.01843521767865,Manhã,Relato anônimo,4
+2025-05-25 19:17:00,Arrombamento,Rua Monsenhor Fabrício,Charneca,-8.326145168219764,-35.046939116308394,Tarde,Relato anônimo,1
+2025-06-23 14:32:00,Roubo,Rua do Comércio,Centro,-8.253147264923815,-35.0545291382785,Noite,Imprensa,2
+2025-03-27 07:02:00,Furto,Av. Laura Machado,Ponte dos Carvalhos,-8.294610106557734,-35.018448477668706,Tarde,Imprensa,1
+2025-04-22 01:41:00,Assalto,Av. Laura Machado,Enseada dos Corais,-8.263415237267935,-35.036288472151114,Tarde,Relato anônimo,5
+2025-05-06 02:45:00,Roubo,Rua do Canal,Pontezinha,-8.29793775486729,-34.99444075345754,Noite,Relato anônimo,4
+2025-02-26 20:52:00,Tráfico,Rua Sete de Setembro,Pontezinha,-8.23952750840506,-35.00552854873045,Manhã,Imprensa,2
+2025-04-18 00:34:00,Arrombamento,Av. Laura Machado,Enseada dos Corais,-8.280867046435874,-35.05020664304102,Manhã,Monitoramento,3
+2025-06-05 07:20:00,Tráfico,Av. Governador Agamenon Magalhães,Gaibu,-8.303761110163913,-35.01693714736836,Noite,Relato anônimo,5
+2025-06-06 07:46:00,Assalto,Rua Monsenhor Fabrício,Enseada dos Corais,-8.272540044477783,-34.99496003517634,Madrugada,Imprensa,2
+2025-03-30 14:11:00,Tráfico,Av. Presidente Kennedy,Novo Horizonte,-8.266738747686595,-35.067577007543996,Tarde,Relato anônimo,5
+2025-02-17 09:10:00,Assalto,Av. Tejucupapo,Suape,-8.256701309556927,-35.05495151568286,Tarde,Monitoramento,5
+2025-06-01 07:29:00,Roubo,Rua do Sol,Ponte dos Carvalhos,-8.292599281798807,-35.02374499484371,Madrugada,BO,5
+2025-05-19 12:01:00,Roubo,Av. Historiador Pereira da Costa,Ponte dos Carvalhos,-8.2331083127554,-34.952252036099864,Manhã,BO,1
+2025-03-20 20:38:00,Roubo,Av. Presidente Kennedy,Suape,-8.267831923521594,-35.03457991546801,Manhã,BO,1
+2025-04-04 04:30:00,Assalto,Rua da Praia,Ponte dos Carvalhos,-8.269637358787985,-35.00780861435315,Madrugada,Relato anônimo,3
+2025-02-26 17:44:00,Furto,Rua do Sol,Gaibu,-8.29101669063893,-34.98511971610219,Noite,BO,1
+2025-03-10 16:56:00,Violência doméstica,Rua do Rosário,Suape,-8.277248231020215,-35.017556422772714,Madrugada,Relato anônimo,1
+2025-06-01 12:09:00,Tráfico,Av. Historiador Pereira da Costa,Gaibu,-8.266351893698637,-35.01946033473464,Noite,Imprensa,2
+2025-06-17 05:07:00,Vandalismo,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.262026487488258,-35.04543132966367,Tarde,BO,3
+2025-05-15 02:57:00,Furto,Rua da Praia,Ponte dos Carvalhos,-8.29695754384865,-35.057503855824294,Manhã,Relato anônimo,2
+2025-08-04 13:09:00,Furto,Rua da Praia,Enseada dos Corais,-8.272012469234493,-35.0105265874122,Noite,Imprensa,3
+2025-07-31 11:59:00,Tráfico,Av. Laura Machado,Novo Horizonte,-8.271555678346202,-34.988137689166315,Noite,BO,1
+2025-05-04 04:24:00,Tráfico,Rua do Sol,Enseada dos Corais,-8.283139900470726,-35.01328145861019,Madrugada,Monitoramento,1
+2025-03-21 02:20:00,Roubo,Rua Dr. João Leitão,Suape,-8.310292521903483,-35.039677492561864,Tarde,Relato anônimo,4
+2025-06-15 22:26:00,Furto,Rua do Forte,Charneca,-8.265611556060856,-35.00877244723142,Noite,Relato anônimo,2
+2025-06-29 17:31:00,Furto,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.290349173691604,-35.031789981296455,Tarde,Monitoramento,1
+2025-08-10 02:15:00,Assalto,Rua Dr. João Leitão,Gaibu,-8.32094684366702,-35.03892573002017,Noite,BO,2
+2025-07-04 15:08:00,Vandalismo,Av. Historiador Pereira da Costa,Pontezinha,-8.260740420912004,-35.015619874597334,Manhã,BO,3
+2025-06-09 04:53:00,Furto,Rua do Sol,Suape,-8.27048335696547,-35.028755657820476,Madrugada,Relato anônimo,2
+2025-03-14 22:45:00,Violência doméstica,Rua da Matriz,Enseada dos Corais,-8.282823421034296,-35.04650802848684,Tarde,Monitoramento,1
+2025-02-25 22:06:00,Arrombamento,Rua Dr. João Leitão,Pontezinha,-8.265529289494935,-35.019475676390265,Manhã,Monitoramento,5
+2025-05-16 04:05:00,Tráfico,Av. Historiador Pereira da Costa,Enseada dos Corais,-8.27069952880018,-35.04315087106669,Tarde,BO,1
+2025-03-30 15:47:00,Assalto,Rua Dr. João Leitão,Enseada dos Corais,-8.336833572996781,-35.00257118220616,Tarde,Imprensa,4
+2025-07-27 22:00:00,Furto,Rua da Praia,Novo Horizonte,-8.29497093640021,-35.05156939410108,Noite,BO,2
+2025-06-20 05:00:00,Roubo,Rua da Matriz,Enseada dos Corais,-8.26566302720215,-35.03980031599798,Madrugada,Monitoramento,4
+2025-04-11 13:59:00,Assalto,Av. Laura Machado,Suape,-8.256501590398834,-35.01457485126058,Tarde,Imprensa,1
+2025-05-25 19:03:00,Assalto,Rua do Sol,Gaibu,-8.265910766919987,-35.06414889278001,Tarde,Monitoramento,2
+2025-08-08 14:30:00,Violência doméstica,Av. Governador Agamenon Magalhães,Ponte dos Carvalhos,-8.25270140036534,-35.02346873671915,Noite,Monitoramento,4
+2025-04-02 08:06:00,Roubo,Rua do Canal,Charneca,-8.292231928481154,-35.02641528831644,Manhã,BO,3
+2025-04-14 09:10:00,Assalto,Rua da Praia,Centro,-8.327405880822457,-35.01978367971299,Manhã,BO,2
+2025-07-03 06:40:00,Assalto,Rua Sete de Setembro,Gaibu,-8.308734287704551,-35.06381675714609,Manhã,Relato anônimo,3
+2025-02-23 01:20:00,Roubo,Rua da Matriz,Novo Horizonte,-8.321058979655447,-35.002182790625255,Manhã,Imprensa,1
+2025-06-20 06:20:00,Vandalismo,Rua Sete de Setembro,Charneca,-8.298731584842319,-34.99165680725209,Madrugada,Imprensa,2
+2025-05-27 23:32:00,Arrombamento,Rua do Rosário,Pontezinha,-8.296395036576307,-35.072683948939826,Manhã,Relato anônimo,1
+2025-07-12 01:18:00,Assalto,Rua Monsenhor Fabrício,Novo Horizonte,-8.310913110998715,-34.999104709499825,Tarde,Relato anônimo,4
+2025-04-08 21:41:00,Roubo,Av. Presidente Kennedy,Gaibu,-8.286897454448416,-35.04370718241227,Tarde,Relato anônimo,5
+2025-06-06 04:21:00,Assalto,Rua do Carmo,Pontezinha,-8.27899954435368,-35.01745543159581,Noite,Imprensa,5
+2025-08-05 12:15:00,Tráfico,Rua Dr. João Leitão,Centro,-8.255065029602438,-34.99378751925268,Tarde,BO,2
+2025-02-15 04:49:00,Assalto,Rua do Forte,Ponte dos Carvalhos,-8.291994216144726,-35.063151192152056,Noite,BO,4
+2025-04-28 05:04:00,Roubo,Rua da Praia,Enseada dos Corais,-8.293336629028081,-35.02349298733543,Noite,Imprensa,3
+2025-04-19 15:16:00,Roubo,Av. Tejucupapo,Novo Horizonte,-8.307093973155265,-35.053928772872375,Madrugada,Relato anônimo,1
+2025-05-16 09:25:00,Vandalismo,Rua do Forte,Centro,-8.274405302961252,-35.03121630878926,Madrugada,Relato anônimo,4
+2025-03-05 21:26:00,Furto,Rua da Praia,Pontezinha,-8.28218007511471,-35.0489623833675,Madrugada,Imprensa,1
+2025-08-10 17:00:00,Assalto,Rua da Matriz,Gaibu,-8.288760017855143,-35.05310582860671,Tarde,BO,3
+2025-04-10 12:55:00,Furto,Rua Monsenhor Fabrício,Ponte dos Carvalhos,-8.26074503972188,-35.004118766631905,Madrugada,BO,3
+2025-03-11 02:11:00,Homicídio,Av. Governador Agamenon Magalhães,Novo Horizonte,-8.329154696555952,-35.05323777150481,Manhã,Monitoramento,4
+2025-05-04 10:38:00,Roubo,Rua da Praia,Ponte dos Carvalhos,-8.320413231377252,-35.046250598360174,Madrugada,Relato anônimo,4
+2025-07-01 04:30:00,Roubo,Rua da Estação,Centro,-8.285085949244758,-35.066241130492465,Tarde,Relato anônimo,3
+2025-05-15 13:30:00,Assalto,Rua Monsenhor Fabrício,Centro,-8.306046495328133,-35.05509893430204,Tarde,BO,2
+2025-04-17 20:11:00,Tráfico,Rua Dr. João Leitão,Suape,-8.277818316765027,-35.02826639157409,Manhã,Relato anônimo,1
